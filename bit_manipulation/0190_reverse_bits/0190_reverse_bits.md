@@ -1,13 +1,6 @@
 190. Reverse Bits
 Easy
 
-524
-
-162
-
-Favorite
-
-Share
 Reverse bits of a given 32 bits unsigned integer.
 
 

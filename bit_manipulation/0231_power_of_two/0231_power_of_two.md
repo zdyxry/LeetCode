@@ -1,13 +1,6 @@
 231. Power of Two
 Easy
 
-408
-
-116
-
-Favorite
-
-Share
 Given an integer, write a function to determine if it is a power of two.
 
 Example 1:
