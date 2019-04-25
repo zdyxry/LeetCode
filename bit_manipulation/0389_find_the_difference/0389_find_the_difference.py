@@ -19,6 +19,6 @@ class Solution(object):
             numt+=ord(t_ch)
 
         #return character for ascii value. obtained by differnce of both strings
-        return (chr(numt-nums))
+        return (chr(abs(numt-nums)))
 
 print(Solution().findTheDifference("abcd","abcdf"))
