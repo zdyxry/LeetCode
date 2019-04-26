@@ -2,6 +2,7 @@
 
 ## Bit Manipulation
 
+### Easy
 - [x] 0136 Single Number
 - [x] 0190 Reverse Bits
 - [x] 0191 Number Of 1 Bits
@@ -10,3 +11,4 @@
 - [x] 0371 Sum Of Two Integers
 - [x] 0389 Find The Difference
 - [x] 0401 Binary Watch
+- [x] 0461 Hamming Distance
