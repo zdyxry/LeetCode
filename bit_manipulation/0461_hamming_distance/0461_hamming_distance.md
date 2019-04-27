@@ -22,7 +22,8 @@ Explanation:
 The above arrows point to positions where the corresponding bits are different.
 
 # 方法
-
+汉明距离，两个数字二进制中不同位数。   
+异或，不同为 1，计算 1 数量。
 
 
 ```go
