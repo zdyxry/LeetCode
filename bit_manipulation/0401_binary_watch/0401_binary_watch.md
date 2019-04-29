@@ -11,12 +11,12 @@ Given a non-negative integer n which represents the number of LEDs that are curr
 
 Example:
 
-Input: n = 1
-Return: ["1:00", "2:00", "4:00", "8:00", "0:01", "0:02", "0:04", "0:08", "0:16", "0:32"]
-Note:
-The order of output does not matter.
-The hour must not contain a leading zero, for example "01:00" is not valid, it should be "1:00".
-The minute must be consist of two digits and may contain a leading zero, for example "10:2" is not valid, it should be "10:02".
+Input: n = 1  
+Return: ["1:00", "2:00", "4:00", "8:00", "0:01", "0:02", "0:04", "0:08", "0:16", "0:32"]  
+Note:  
+The order of output does not matter.  
+The hour must not contain a leading zero, for example "01:00" is not valid, it should be "1:00".  
+The minute must be consist of two digits and may contain a leading zero, for example "10:2" is not valid, it should be "10:02".  
 
 # 方法
 遍历所有时间数字，如果当前时间数字二进制之和中 1 的个数等于 num，则记录。

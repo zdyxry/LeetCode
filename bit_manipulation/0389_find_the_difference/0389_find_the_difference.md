@@ -9,14 +9,14 @@ Find the letter that was added in t.
 
 Example:
 
-Input:
-s = "abcd"
-t = "abcde"
+Input:  
+s = "abcd"  
+t = "abcde"  
 
-Output:
-e
+Output:  
+e  
 
-Explanation:
+Explanation:  
 'e' is the letter that was added.
 
 # 方法

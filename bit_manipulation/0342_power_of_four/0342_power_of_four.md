@@ -5,13 +5,13 @@ Given an integer (signed 32 bits), write a function to check whether it is a pow
 
 Example 1:
 
-Input: 16
-Output: true
-Example 2:
+Input: 16  
+Output: true  
+Example 2:  
 
-Input: 5
-Output: false
-Follow up: Could you solve it without loops/recursion?
+Input: 5  
+Output: false  
+Follow up: Could you solve it without loops/recursion?  
 
 # 方法
 1) 对4取余，若为0，则除4循环，直至 num == 1  
