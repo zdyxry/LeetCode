@@ -13,3 +13,4 @@
 - [x] 0401 Binary Watch
 - [x] 0461 Hamming Distance
 - [x] 0645 Set Mismatch
+- [x] 0693 Binary Number with Alternating Bits
