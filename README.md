@@ -16,3 +16,8 @@
 - [x] 0693 Binary Number with Alternating Bits
 - [x] 0762 Prime Number of Set Bits in Binary Representation
 - [x] 0868 Binary Gap
+
+## Array
+
+### Easy
+- [x] 0026 Remove Duplicates from Sorted Array
