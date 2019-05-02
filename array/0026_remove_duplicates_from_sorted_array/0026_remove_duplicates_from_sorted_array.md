@@ -41,7 +41,7 @@ for (int i = 0; i < len; i++) {
 ```
 
 # 方法
-
+维护两个指针，其中一个为唯一数的索引值，另一个为正常索引值，遍历数组，当遇到唯一数时更新索引并更新相应数值。
 
 ```go
 func removeDuplicates(a []int) int {
