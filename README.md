@@ -22,3 +22,4 @@
 ### Easy
 - [x] 0026 Remove Duplicates from Sorted Array
 - [x] 0027 Remove Element
+- [x] 0066 Plus One
