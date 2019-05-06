@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 class Solution(object):
     def generate(self, numRows):
         """
