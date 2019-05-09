@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
-
-
 class Solution(object):
     def majorityElement(self, nums):
         """
