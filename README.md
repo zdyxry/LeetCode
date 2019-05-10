@@ -20,6 +20,7 @@
 ## Array
 
 ### Easy
+- [ ] 0001 Two Sum
 - [x] 0026 Remove Duplicates from Sorted Array
 - [x] 0027 Remove Element
 - [x] 0066 Plus One
