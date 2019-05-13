@@ -24,6 +24,7 @@
 - [x] 0026 Remove Duplicates from Sorted Array
 - [x] 0027 Remove Element
 - [x] 0035 Search Insert Position
+- [x] 0053 Maximum Subarray
 - [x] 0066 Plus One
 - [x] 0118 Pascal's Triangle
 - [x] 0119 Pascal's Triangle II
