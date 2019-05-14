@@ -26,6 +26,7 @@
 - [x] 0035 Search Insert Position
 - [x] 0053 Maximum Subarray
 - [x] 0066 Plus One
+- [x] 0088 Merge Sorted Array
 - [x] 0118 Pascal's Triangle
 - [x] 0119 Pascal's Triangle II
 - [x] 0121 Best Time to Buy and Sell Stock
