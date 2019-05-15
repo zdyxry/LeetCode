@@ -34,3 +34,4 @@
 - [x] 0167 Two Sum II - Input array is sorted
 - [x] 0169 Majority Element
 - [x] 0189 Rotate Array
+- [x] 0217 Contains Duplicate
