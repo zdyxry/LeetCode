@@ -31,5 +31,6 @@
 - [x] 0119 Pascal's Triangle II
 - [x] 0121 Best Time to Buy and Sell Stock
 - [x] 0122 Best Time to Buy and Sell Stock II
+- [x] 0167 Two Sum II - Input array is sorted
 - [x] 0169 Majority Element
 - [x] 0189 Rotate Array
