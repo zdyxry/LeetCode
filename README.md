@@ -36,3 +36,5 @@
 - [x] 0189 Rotate Array
 - [x] 0217 Contains Duplicate
 - [x] 0219 Contains Duplicate II
+- [ ] 0243 Shortest Word Distance 
+- [x] 0268 Missing Number
