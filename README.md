@@ -38,3 +38,4 @@
 - [x] 0219 Contains Duplicate II
 - [ ] 0243 Shortest Word Distance 
 - [x] 0268 Missing Number
+- [x] 0283 Move Zeroes
