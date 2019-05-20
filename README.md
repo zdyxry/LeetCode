@@ -39,3 +39,4 @@
 - [ ] 0243 Shortest Word Distance 
 - [x] 0268 Missing Number
 - [x] 0283 Move Zeroes
+- [x] 0414 Third Maximum Number
