@@ -32,3 +32,59 @@ All the integers in the given input belong to the range: [-1e7, 1e7].
 
 
 # 方法
+遍历数组，分别处理数字相加为 k 和相减为 k 的情况。
+
+
+
+```go
+func findPairs(nums []int, k int) int {
+    if k < 0 {
+		return 0
+	}
+
+	record := make(map[int]int)
+	for _, num := range nums {
+		record[num]++
+	}
+
+	ans := 0
+
+	if k == 0 {
+		for _, count := range record {
+			if count > 1 {
+				ans++
+			}
+		}
+		return ans
+	}
+
+	for n := range record {
+		if record[n-k] > 0 {
+			ans++
+		}
+	}
+
+	return ans
+}
+```
+
+
+
+```python
+class Solution(object):
+    def findPairs(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        if k < 0: return 0
+        result, lookup = set(), set()
+        for num in nums:
+            if num-k in lookup:
+                result.add(num-k)
+            if num+k in lookup:
+                result.add(num)
+            lookup.add(num)
+        return len(result)
+```
