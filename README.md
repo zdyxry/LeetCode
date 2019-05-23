@@ -45,3 +45,4 @@
 - [x] 0509 Fibonacci Number
 - [x] 0532 K-diff Pairs in an Array
 - [x] 0561 Array Partition I
+- [x] 0566 Reshape the Matrix
