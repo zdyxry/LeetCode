@@ -15,11 +15,11 @@ func matrixReshape(nums [][]int, r int, c int) [][]int {
 	}
 	m, n := len(nums), len(nums[0])
 	for i := 0; i < m*n; i++ {
-		org_y := i / n
-		org_x := i % n
-		new_y := i / c
-		new_x := i % c
-		res[new_y][new_x] = nums[org_y][org_x]
+		orgY := i / n
+		orgX := i % n
+		newY := i / c
+		newX := i % c
+		res[newY][newX] = nums[orgY][orgX]
 	}
 
 	return res
