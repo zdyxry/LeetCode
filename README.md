@@ -48,3 +48,4 @@
 - [x] 0566 Reshape the Matrix
 - [x] 0581 Shortest Unsorted Continuous Subarray
 - [x] 0605 Can Place Flowers
+- [x] 0628 Maximum Product of Three Numbers
