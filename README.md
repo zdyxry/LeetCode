@@ -50,3 +50,4 @@
 - [x] 0605 Can Place Flowers
 - [x] 0628 Maximum Product of Three Numbers
 - [x] 0643 Maximum Average Subarray I
+- [x] 0661 Image Smoother
