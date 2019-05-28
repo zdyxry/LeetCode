@@ -51,3 +51,4 @@
 - [x] 0628 Maximum Product of Three Numbers
 - [x] 0643 Maximum Average Subarray I
 - [x] 0661 Image Smoother
+- [x] 0665 Non-decreasing Array
