@@ -52,3 +52,4 @@
 - [x] 0643 Maximum Average Subarray I
 - [x] 0661 Image Smoother
 - [x] 0665 Non-decreasing Array
+- [x] 0674 Longest Continuous Increasing Subsequence
