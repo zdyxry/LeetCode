@@ -53,3 +53,4 @@
 - [x] 0661 Image Smoother
 - [x] 0665 Non-decreasing Array
 - [x] 0674 Longest Continuous Increasing Subsequence
+- [x] 0697 Degree of an Array
