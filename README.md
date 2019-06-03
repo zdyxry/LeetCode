@@ -56,3 +56,4 @@
 - [x] 0697 Degree of an Array
 - [x] 0724 Find Pivot Index
 - [x] 0746 Min Cost Climbing Stairs
+- [x] 0766 Toeplitz Matrix
