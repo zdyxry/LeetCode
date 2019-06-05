@@ -58,3 +58,4 @@
 - [x] 0746 Min Cost Climbing Stairs
 - [x] 0766 Toeplitz Matrix
 - [x] 0830 Positions of Large Groups
+- [x] 0849 Maximize Distance to Closest Person
