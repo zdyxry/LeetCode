@@ -63,3 +63,11 @@
 - [x] 0922 Sort Array By Parity II
 - [x] 0977 Squares of a Sorted Array
 - [x] 0989 Add to Array-Form of Integer
+
+
+
+## Hash Table
+
+### Easy
+
+- [x] 0202 Happy Number
