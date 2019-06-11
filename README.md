@@ -71,3 +71,4 @@
 ### Easy
 
 - [x] 0202 Happy Number
+- [x] 0204 Count Primes
