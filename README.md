@@ -72,3 +72,4 @@
 - [x] 0202 Happy Number
 - [x] 0204 Count Primes
 - [x] 0205 Isomorphic Strings
+- [x] 0242 Valid Anagram
