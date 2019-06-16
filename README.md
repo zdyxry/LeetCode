@@ -74,3 +74,4 @@
 - [x] 0205 Isomorphic Strings
 - [x] 0242 Valid Anagram
 - [x] 0290 Word Pattern
+- [x] 0387 First Unique Character in a String
