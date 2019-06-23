@@ -81,3 +81,4 @@
 - [x] 0594 Longest Harmonious Subsequence
 - [x] 0599 Minimum Index Sum of Two Lists
 - [x] 0705 Design HashSet
+- [x] 0706 Design HashMap
