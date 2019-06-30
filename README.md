@@ -94,3 +94,4 @@
 
 - [x] 0013 Roman to Integer
 - [x] 0014 Longest Common Prefix
+- [x] 0020 Valid Parentheses
