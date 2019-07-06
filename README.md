@@ -100,3 +100,4 @@
 - [x] 0383 Ransom Note
 - [x] 0415 Add Strings
 - [x] 0459 Repeated Substring Pattern
+- [x] 0520 Detect Capital
