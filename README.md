@@ -99,3 +99,4 @@
 - [x] 0344 Reverse String
 - [x] 0383 Ransom Note
 - [x] 0415 Add Strings
+- [x] 0459 Repeated Substring Pattern
