@@ -41,6 +41,20 @@ s will only consist of "0" or "1" characters.
 统计当前字符连续出现的次数，当字符与前一个字符不同，则将当前字符数置为 1 ，最终结果为当前连续字符出现次数与前一个连续字符出现次数的最小值相加。
 
 
+```
+  001110010    prev = 0    cur = 0
+ 0 01110010    prev = 0    cur = 1
+0 0 1110010    prev = 0    cur = 2
+00 1 110010    prev = 2    cur = 1    01
+001 1 10010    prev = 2    cur = 2    0011
+0011 1 0010    prev = 2    cur = 3
+00111 0 010    prev = 3    cur = 1    10
+001110 0 10    prev = 3    cur = 2    1100
+0011100 1 0    prev = 2    cur = 1    01
+00111001 0     prev = 1    cur = 1    10
+```
+
+
 
 ```go
 func countBinarySubstrings(s string) int {
