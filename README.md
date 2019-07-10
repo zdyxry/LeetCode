@@ -104,3 +104,4 @@
 - [x] 0557 Reverse Words in a String III
 - [x] 0680 Valid Palindrome II
 - [x] 0696 Count Binary Substrings
+- [x] 0859 Buddy Strings
