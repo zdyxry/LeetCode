@@ -107,3 +107,11 @@
 - [x] 0859 Buddy Strings
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
+
+
+
+## Linked List
+
+### Easy
+
+- [x] 0021. Merge Two Sorted Lists
