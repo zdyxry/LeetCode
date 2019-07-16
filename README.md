@@ -114,6 +114,7 @@
 
 ### Easy
 
-- [x] 0021. Merge Two Sorted Lists
+- [x] 0021 Merge Two Sorted Lists
 - [x] 0083 Remove Duplicates from Sorted List
-- [x] 0141. Linked List Cycle
+- [x] 0141 Linked List Cycle
+- [x] 0160 Intersection of Two Linked Lists
