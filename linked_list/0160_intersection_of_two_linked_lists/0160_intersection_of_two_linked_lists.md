@@ -50,6 +50,35 @@ Your code should preferably run in O(n) time and use only O(1) memory.
 
 ## 方法
 
+当 A 链表循环完成后，循环 B 链表；
+当 B 链表循环完成后，循环 A 链表。
+
+不会陷入死循环的原因：当 A 与 B 两个链表最终走完的路程均为 A+B，最终值为 nil，会退出循环。
+
+A: 1 -> 2 -> 3
+B: 4 -> 5
+
+比较顺序如下：
+
+1 vs 4 
+2 vs 5
+3 vs nil
+nil vs 1
+4 vs 2
+5 vs 3 
+nil vs nil
+
+A: 1 -> 2 -> 3
+B: 2 -> 3
+
+比较顺序如下：
+
+1 vs 2 
+2 vs 3 
+3 vs nil
+nil vs 1
+2 vs 2 
+3 vs 3 
 
 
 

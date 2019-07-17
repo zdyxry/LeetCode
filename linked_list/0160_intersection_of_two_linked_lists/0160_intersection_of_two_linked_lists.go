@@ -1,27 +1,53 @@
 package main
 
+import "fmt"
+
 type ListNode struct {
 	Val  int
 	Next *ListNode
 }
 
 func getIntersectionNode(headA, headB *ListNode) *ListNode {
-	a, b := headA, headB
-	hasLinkedToB, hasLinkedToA := false, false
-	for a != nil && b != nil {
-		if a == b {
-			return b
+	if headA == nil || headB == nil {
+		return nil
+	}
+
+	a := headA
+	b := headB
+
+	//if a & b have different len, then we will stop the loop after second iteration
+	for a != b {
+		if a != nil {
+			fmt.Println("a is", a.Val)
+		}
+		if b != nil {
+			fmt.Println("b is", b.Val)
+		}
+		// fmt.Println(a.Val, b.Val)
+		//for the end of first iteration, we just reset the pointer to the head of another linkedlist
+		if a == nil {
+			a = headB
+		} else {
+			a = a.Next
 		}
 
-		a, b = a.Next, b.Next
-		if a == nil && !hasLinkedToB {
-			a = headB
-			hasLinkedToB = true
-		}
-		if b == nil && !hasLinkedToA {
+		if b == nil {
 			b = headA
-			hasLinkedToA = true
+		} else {
+			b = b.Next
 		}
+		fmt.Println(a, b)
 	}
-	return nil
+	return a
+}
+
+func main() {
+	headA := &ListNode{1, nil}
+	headA.Next = &ListNode{2, nil}
+	headA.Next.Next = &ListNode{3, nil}
+
+	headB := &ListNode{2, nil}
+	headB.Next = &ListNode{3, nil}
+	result := getIntersectionNode(headA, headB)
+	fmt.Println(result)
 }
