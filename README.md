@@ -122,3 +122,5 @@
 - [x] 0206 Reverse Linked List
 - [x] 0234 Palindrome Linked List
 - [x] 0237 Delete Node in a Linked List
+- [ ] 0707 Design Linked List
+- [x] 0876 Middle of the Linked List
