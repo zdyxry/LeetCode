@@ -124,3 +124,10 @@
 - [x] 0237 Delete Node in a Linked List
 - [ ] 0707 Design Linked List
 - [x] 0876 Middle of the Linked List
+
+
+## Stack
+
+### Easy
+
+- [x] 0155 Min Stack
