@@ -142,3 +142,44 @@ class Solution(object):
         return Sstk== Tstk
 
 ```
+
+
+```python
+# https://leetcode.com/problems/backspace-string-compare/discuss/145786/Python-tm
+# 对两个字符串从右往左遍历，用子方程getChar() 从两个字符串分别取值，如取值不等则返回False，相等就继续迭代，知道迭代技术返回True
+
+# 子方程getChar()的取值规则：
+
+# While循环退出条件：下标出界或者返回值不为空。
+# Case 1: 当值等于`#`, `count`增值
+# Case 2: 如果`count == 0` 说明这个值没有被`#`给抵消，返回
+# Case 3: 如果`count != 0` 切这个值不为`#`，这个值要被`#`抵消掉
+# 三个Case运行完后，记得锁紧下标`r`
+class Solution(object):
+    def backspaceCompare(self, S1, S2):
+        r1 = len(S1) - 1 
+        r2 = len (S2) - 1
+        
+        while r1 >= 0 or r2 >= 0:
+            char1 = char2 = ""
+            if r1 >= 0:
+                char1, r1 = self.getChar(S1, r1)
+            if r2 >= 0:
+                char2, r2 = self.getChar(S2, r2)
+            if char1 != char2:
+                return False
+        return True
+        
+    
+    def getChar(self, s , r):
+        char, count = '', 0
+        while r >= 0 and not char:
+            if s[r] == '#':
+                count += 1
+            elif count == 0:
+                char = s[r]
+            else:
+                count -= 1
+            r -= 1
+        return char, r
+```
