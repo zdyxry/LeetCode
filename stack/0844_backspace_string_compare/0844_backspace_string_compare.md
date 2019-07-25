@@ -153,7 +153,7 @@ class Solution(object):
 # While循环退出条件：下标出界或者返回值不为空。
 # Case 1: 当值等于`#`, `count`增值
 # Case 2: 如果`count == 0` 说明这个值没有被`#`给抵消，返回
-# Case 3: 如果`count != 0` 切这个值不为`#`，这个值要被`#`抵消掉
+# Case 3: 如果`count != 0` 且这个值不为`#`，这个值要被`#`抵消掉
 # 三个Case运行完后，记得锁紧下标`r`
 class Solution(object):
     def backspaceCompare(self, S1, S2):
