@@ -140,3 +140,4 @@
 ### Easy
 
 - [x] 0703 Kth Largest Element in a Stream
+- [x] 1046 Last Stone Weight
