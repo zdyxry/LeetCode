@@ -148,3 +148,4 @@
 ### Easy
 
 - [x] 0100 Same Tree
+- [x] 0101 Symmetric Tree
