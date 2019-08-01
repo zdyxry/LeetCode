@@ -14,10 +14,10 @@ class Solution(object):
             right = getDepth(node.right)
 
             if abs(left - right) > 1:
-                self.res = False 
-            return 1 + max(left,right)
+                self.res = False
+            return 1 + max(left, right)
 
-        self.res = True 
+        self.res = True
         getDepth(root)
         return self.res
 
