@@ -155,3 +155,4 @@
 - [x] 0110 Balanced Binary Tree
 - [x] 0111 Minimum Depth of Binary Tree
 - [x] 0112 Path Sum
+- [x] 0226 Invert Binary Tree
