@@ -156,3 +156,4 @@
 - [x] 0111 Minimum Depth of Binary Tree
 - [x] 0112 Path Sum
 - [x] 0226 Invert Binary Tree
+- [x] 0235 Lowest Common Ancestor of a Binary Search Tree
