@@ -159,3 +159,4 @@
 - [x] 0235 Lowest Common Ancestor of a Binary Search Tree
 - [x] 0257 Binary Tree Paths
 - [x] 0404 Sum of Left Leaves
+- [x] 0429 N-ary Tree Level Order Traversal
