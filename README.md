@@ -161,3 +161,4 @@
 - [x] 0404 Sum of Left Leaves
 - [x] 0429 N-ary Tree Level Order Traversal
 - [x] 0437 Path Sum III
+- [x] 0501 Find Mode in Binary Search Tree
