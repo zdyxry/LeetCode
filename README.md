@@ -162,4 +162,4 @@
 - [x] 0429 N-ary Tree Level Order Traversal
 - [x] 0437 Path Sum III
 - [x] 0501 Find Mode in Binary Search Tree
-- [ ] 0530 Minimum Absolute Difference in BST
+- [x] 0530 Minimum Absolute Difference in BST
