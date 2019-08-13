@@ -163,3 +163,4 @@
 - [x] 0437 Path Sum III
 - [x] 0501 Find Mode in Binary Search Tree
 - [x] 0530 Minimum Absolute Difference in BST
+- [x] 0538 Convert BST to Greater Tree
