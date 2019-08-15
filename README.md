@@ -165,3 +165,4 @@
 - [x] 0530 Minimum Absolute Difference in BST
 - [x] 0538 Convert BST to Greater Tree
 - [x] 0543 Diameter of Binary Tree
+- [x] 0559 Maximum Depth of N-ary Tree
