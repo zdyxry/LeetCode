@@ -22,3 +22,63 @@ Note: The length of path between two nodes is represented by the number of edges
 
 
 ## 方法
+
+```go
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+func diameterOfBinaryTree(root *TreeNode) int {
+    _, res := helper(root)
+	return res
+}
+
+func helper(root *TreeNode) (length, diameter int) {
+	if root == nil {
+		return
+	}
+
+	leftLen, leftDia := helper(root.Left)
+	rightLen, rightDia := helper(root.Right)
+
+	length = max(leftLen, rightLen) + 1
+	diameter = max(leftLen+rightLen, max(leftDia, rightDia))
+	return
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
+```
+
+
+```python
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def diameterOfBinaryTree(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+        return self.depth(root, 0)[1]
+    
+    def depth(self, root, diameter):
+        if not root: 
+            return 0, diameter
+        left, diameter = self.depth(root.left, diameter)
+        right, diameter = self.depth(root.right, diameter)
+        return 1 + max(left, right), max(diameter, left + right)
+```
