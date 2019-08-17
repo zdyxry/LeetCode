@@ -167,3 +167,4 @@
 - [x] 0543 Diameter of Binary Tree
 - [x] 0559 Maximum Depth of N-ary Tree
 - [x] 0572 Subtree of Another Tree
+- [x] 0589 N-ary Tree Preorder Traversal
