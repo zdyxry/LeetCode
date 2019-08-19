@@ -170,3 +170,4 @@
 - [x] 0589 N-ary Tree Preorder Traversal
 - [x] 0590 N-ary Tree Postorder Traversal
 - [x] 0617 Merge Two Binary Trees
+- [x] 0637 Average of Levels in Binary Tree
