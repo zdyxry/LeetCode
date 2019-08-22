@@ -173,3 +173,4 @@
 - [x] 0637 Average of Levels in Binary Tree
 - [x] 0653 Two Sum IV - Input is a BST
 - [x] 0669 Trim a Binary Search Tree
+- [x] 0687 Longest Univalue Path
