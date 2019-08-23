@@ -174,3 +174,4 @@
 - [x] 0653 Two Sum IV - Input is a BST
 - [x] 0669 Trim a Binary Search Tree
 - [x] 0687 Longest Univalue Path
+- [x] 0700 Search in a Binary Search Tree
