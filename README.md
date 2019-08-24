@@ -175,3 +175,4 @@
 - [x] 0669 Trim a Binary Search Tree
 - [x] 0687 Longest Univalue Path
 - [x] 0700 Search in a Binary Search Tree
+- [x] 0783 Minimum Distance Between BST Nodes
