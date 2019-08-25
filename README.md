@@ -176,3 +176,4 @@
 - [x] 0687 Longest Univalue Path
 - [x] 0700 Search in a Binary Search Tree
 - [x] 0783 Minimum Distance Between BST Nodes
+- [x] 0872 Leaf-Similar Trees
