@@ -178,3 +178,4 @@
 - [x] 0783 Minimum Distance Between BST Nodes
 - [x] 0872 Leaf-Similar Trees
 - [x] 0938 Range Sum of BST
+- [x] 0965 Univalued Binary Tree
