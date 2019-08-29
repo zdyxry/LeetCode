@@ -180,3 +180,10 @@
 - [x] 0938 Range Sum of BST
 - [x] 0965 Univalued Binary Tree
 - [x] 0993 Cousins in Binary Tree
+
+
+## Binary Search
+
+### Easy
+
+- [x] 0069 Sqrt(x)
