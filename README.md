@@ -187,3 +187,4 @@
 ### Easy
 
 - [x] 0069 Sqrt(x)
+- [x] 0278 First Bad Version
