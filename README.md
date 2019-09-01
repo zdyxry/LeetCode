@@ -188,3 +188,4 @@
 
 - [x] 0069 Sqrt(x)
 - [x] 0278 First Bad Version
+- [x] 0367 Valid Perfect Square
