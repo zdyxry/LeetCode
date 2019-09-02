@@ -190,3 +190,4 @@
 - [x] 0278 First Bad Version
 - [x] 0367 Valid Perfect Square
 - [x] 0392 Is Subsequence
+- [x] 0704 Binary Search
