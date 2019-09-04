@@ -198,3 +198,4 @@
 ### Easy
 
 - [x] 0349 Intersection of Two Arrays
+- [x] 0350 Intersection of Two Arrays II
