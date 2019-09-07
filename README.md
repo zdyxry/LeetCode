@@ -200,3 +200,10 @@
 - [x] 0349 Intersection of Two Arrays
 - [x] 0350 Intersection of Two Arrays II
 - [x] 0976 Largest Perimeter Triangle
+
+
+## Math
+
+### Easy
+
+- [x] 0168 Excel Sheet Column Title
