@@ -207,3 +207,4 @@
 ### Easy
 
 - [x] 0168 Excel Sheet Column Title
+- [x] 0171 Excel Sheet Column Number
