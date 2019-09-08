@@ -126,6 +126,10 @@
 - [x] 0876 Middle of the Linked List
 
 
+### Medium
+- [x] 0002 Add Two Numbers
+
+
 ## Stack
 
 ### Easy
