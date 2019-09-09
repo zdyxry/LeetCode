@@ -108,7 +108,9 @@
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
 
+### Medium
 
+- [x] 0005 Longest Palindromic Substring
 
 ## Linked List
 
