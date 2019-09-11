@@ -66,6 +66,7 @@
 
 ### Medium
 - [x] 0011 Container With Most Water
+- [x] 0015 3Sum
 
 ## Hash Table
 
