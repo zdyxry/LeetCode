@@ -67,6 +67,7 @@
 ### Medium
 - [x] 0011 Container With Most Water
 - [x] 0015 3Sum
+- [x] 0016 3Sum Closest
 
 ## Hash Table
 
