@@ -69,6 +69,7 @@
 - [x] 0015 3Sum
 - [x] 0016 3Sum Closest
 - [x] 0018 4Sum
+- [x] 0031 Next Permutation
 
 ## Hash Table
 
