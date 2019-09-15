@@ -70,6 +70,7 @@
 - [x] 0016 3Sum Closest
 - [x] 0018 4Sum
 - [x] 0031 Next Permutation
+- [x] 0033 Search in Rotated Sorted Array
 
 ## Hash Table
 
