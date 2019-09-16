@@ -71,6 +71,7 @@
 - [x] 0018 4Sum
 - [x] 0031 Next Permutation
 - [x] 0033 Search in Rotated Sorted Array
+- [x] 0034 Find First and Last Position of Element in Sorted Array
 
 ## Hash Table
 
