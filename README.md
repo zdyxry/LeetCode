@@ -74,6 +74,7 @@
 - [x] 0034 Find First and Last Position of Element in Sorted Array
 - [x] 0039 Combination Sum
 - [x] 0040 Combination Sum II
+- [x] 0048 Rotate Image
 
 ## Hash Table
 
