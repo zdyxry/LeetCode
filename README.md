@@ -75,6 +75,7 @@
 - [x] 0039 Combination Sum
 - [x] 0040 Combination Sum II
 - [x] 0048 Rotate Image
+- [x] 0054 Spiral Matrix
 
 ## Hash Table
 
