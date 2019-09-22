@@ -76,6 +76,7 @@
 - [x] 0040 Combination Sum II
 - [x] 0048 Rotate Image
 - [x] 0054 Spiral Matrix
+- [x] 0055 Jump Game
 
 ## Hash Table
 
