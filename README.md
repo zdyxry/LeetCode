@@ -77,6 +77,7 @@
 - [x] 0048 Rotate Image
 - [x] 0054 Spiral Matrix
 - [x] 0055 Jump Game
+- [x] 0056 Merge Intervals
 
 ## Hash Table
 
