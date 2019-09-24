@@ -78,7 +78,8 @@
 - [x] 0054 Spiral Matrix
 - [x] 0055 Jump Game
 - [x] 0056 Merge Intervals
-- [ ] 0059 Spiral Matrix II
+- [x] 0059 Spiral Matrix II
+- [x] 0062 Unique Paths
 
 ## Hash Table
 
