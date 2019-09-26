@@ -81,6 +81,7 @@
 - [x] 0059 Spiral Matrix II
 - [x] 0062 Unique Paths
 - [x] 0063 Unique Paths II
+- [x] 0064 Minimum Path Sum
 
 ## Hash Table
 
