@@ -84,6 +84,7 @@
 - [x] 0064 Minimum Path Sum
 - [x] 0073 Set Matrix Zeroes
 - [x] 0074 Search a 2D Matrix
+- [x] 0075 Sort Colors
 
 ## Hash Table
 
