@@ -85,6 +85,7 @@
 - [x] 0073 Set Matrix Zeroes
 - [x] 0074 Search a 2D Matrix
 - [x] 0075 Sort Colors
+- [x] 0078 Subsets
 
 ## Hash Table
 
