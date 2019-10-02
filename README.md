@@ -86,6 +86,7 @@
 - [x] 0074 Search a 2D Matrix
 - [x] 0075 Sort Colors
 - [x] 0078 Subsets
+- [x] 0079 Word Search
 
 ## Hash Table
 
