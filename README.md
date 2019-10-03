@@ -87,6 +87,7 @@
 - [x] 0075 Sort Colors
 - [x] 0078 Subsets
 - [x] 0079 Word Search
+- [x] 0080 Remove Duplicates from Sorted Array II
 
 ## Hash Table
 
