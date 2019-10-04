@@ -13,11 +13,12 @@ func search(nums []int, target int) bool {
 	for k < len(nums) && nums[k-1] <= nums[k] {
 		k++
 	}
-
+	fmt.Println("k is", k)
 	i, j := 0, length -1
 	for i <= j{
 		m := (i + j)/ 2
 		med := (m+k) % length
+		fmt.Println("m is", m, "med is", med)
 
 		switch {
 		case nums[med] < target:
