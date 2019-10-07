@@ -91,7 +91,8 @@
 - [x] 0081 Search in Rotated Sorted Array II
 - [x] 0090 Subsets II
 - [x] 0105 Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] 0106 Construct Binary Tree from Inorder and Postorder Traversal
+- [x] 0106 Construct Binary Tree from Inorder and Postorder Traversal
+- [x] 0120 Triangle
 
 ## Hash Table
 
