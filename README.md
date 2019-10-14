@@ -99,6 +99,7 @@
 - [x] 0216 Combination Sum III
 - [x] 0229 Majority Element II
 - [x] 0238 Product of Array Except Self
+- [x] 0287 Find the Duplicate Number
 
 
 ## Hash Table
