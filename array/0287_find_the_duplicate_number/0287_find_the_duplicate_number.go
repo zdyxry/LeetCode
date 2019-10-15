@@ -23,7 +23,6 @@ func findDuplicate(nums []int) int {
 func findDuplicate1(nums []int) int {
 	slow, fast := nums[0], nums[nums[0]]
 	for slow != fast {
-		fmt.Println("slow is %d, fast is %d", slow, fast)
 		slow, fast = nums[slow], nums[nums[fast]]
 	}
 

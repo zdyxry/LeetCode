@@ -100,7 +100,7 @@
 - [x] 0229 Majority Element II
 - [x] 0238 Product of Array Except Self
 - [x] 0287 Find the Duplicate Number
-
+- [x] 0442 Find All Duplicates in an Array
 
 ## Hash Table
 
