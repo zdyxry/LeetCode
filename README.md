@@ -17,6 +17,11 @@
 - [x] 0762 Prime Number of Set Bits in Binary Representation
 - [x] 0868 Binary Gap
 
+### Medium
+
+- [x] 0137 Single Number II
+
+
 ## Array
 
 ### Easy
