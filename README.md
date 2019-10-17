@@ -20,7 +20,7 @@
 ### Medium
 
 - [x] 0137 Single Number II
-
+- [x] 0187 Repeated DNA Sequences
 
 ## Array
 
