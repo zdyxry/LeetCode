@@ -25,7 +25,7 @@
 - [x] 0260 Single Number III
 - [x] 0318 Maximum Product of Word Lengths
 - [x] 0338 Counting Bits
-
+- [x] 0421 Maximum XOR of Two Numbers in an Array
 
 ## Array
 
