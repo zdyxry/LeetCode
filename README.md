@@ -24,6 +24,7 @@
 - [x] 0201 Bitwise AND of Numbers Range
 - [x] 0260 Single Number III
 - [x] 0318 Maximum Product of Word Lengths
+- [x] 0338 Counting Bits
 
 
 ## Array
