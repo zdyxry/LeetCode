@@ -134,6 +134,9 @@
 - [x] 0953 Verifying an Alien Dictionary
 - [x] 1002 Find Common Characters
 
+### Medium
+
+- [x] 0003 Longest Substring Without Repeating Characters
 
 ## String
 
