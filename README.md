@@ -137,6 +137,7 @@
 ### Medium
 
 - [x] 0003 Longest Substring Without Repeating Characters
+- [x] 0036 Valid Sudoku
 
 ## String
 
