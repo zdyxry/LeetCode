@@ -140,6 +140,7 @@
 - [x] 0036 Valid Sudoku
 - [x] 0049 Group Anagrams
 - [x] 0094 Binary Tree Inorder Traversal
+- [x] 0138 Copy List with Random Pointer
 
 ## String
 
