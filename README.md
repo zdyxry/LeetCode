@@ -141,6 +141,7 @@
 - [x] 0049 Group Anagrams
 - [x] 0094 Binary Tree Inorder Traversal
 - [x] 0138 Copy List with Random Pointer
+- [x] 0347 Top K Frequent Elements
 
 ## String
 
