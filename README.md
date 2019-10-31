@@ -144,6 +144,7 @@
 - [x] 0347 Top K Frequent Elements
 - [x] 0451 Sort Characters By Frequency
 - [x] 0454 4Sum II
+- [x] 0525 Contiguous Array
 
 ## String
 
