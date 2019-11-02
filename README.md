@@ -145,6 +145,7 @@
 - [x] 0451 Sort Characters By Frequency
 - [x] 0454 4Sum II
 - [x] 0525 Contiguous Array
+- [x] 0560 Subarray Sum Equals K
 
 ## String
 
