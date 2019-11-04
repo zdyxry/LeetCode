@@ -148,6 +148,7 @@
 - [x] 0560 Subarray Sum Equals K
 - [x] 0648 Replace Words
 - [x] 0692 Top K Frequent Words
+- [x] 0718. Maximum Length of Repeated Subarray
 
 ## String
 
