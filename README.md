@@ -149,6 +149,7 @@
 - [x] 0648 Replace Words
 - [x] 0692 Top K Frequent Words
 - [x] 0718. Maximum Length of Repeated Subarray
+- [x] 0739 Daily Temperatures
 
 ## String
 
