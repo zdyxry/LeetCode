@@ -151,6 +151,7 @@
 - [x] 0718. Maximum Length of Repeated Subarray
 - [x] 0739 Daily Temperatures
 - [x] 0930 Binary Subarrays With Sum
+- [x] 0954 Array of Doubled Pairs
 
 ## String
 
