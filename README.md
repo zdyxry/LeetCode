@@ -152,6 +152,7 @@
 - [x] 0739 Daily Temperatures
 - [x] 0930 Binary Subarrays With Sum
 - [x] 0954 Array of Doubled Pairs
+- [x] 0974 Subarray Sums Divisible by K
 
 ## String
 
