@@ -178,6 +178,7 @@
 ### Medium
 
 - [x] 0005 Longest Palindromic Substring
+- [x] 0017 Letter Combinations of a Phone Number
 
 ## Linked List
 
