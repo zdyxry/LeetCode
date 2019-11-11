@@ -179,6 +179,7 @@
 
 - [x] 0005 Longest Palindromic Substring
 - [x] 0017 Letter Combinations of a Phone Number
+- [x] 0022 Generate Parentheses
 
 ## Linked List
 
