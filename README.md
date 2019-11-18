@@ -186,6 +186,7 @@
 - [x] 0647 Palindromic Substrings
 - [x] 0678 Valid Parenthesis String
 - [x] 0767 Reorganize String
+- [x] 0791 Custom Sort String
 
 ## Linked List
 
