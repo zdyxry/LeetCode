@@ -189,6 +189,7 @@
 - [x] 0791 Custom Sort String
 - [x] 0816 Ambiguous Coordinates
 - [x] 0842 Split Array into Fibonacci Sequence
+- [x] 0848 Shifting Letters
 
 
 ## Linked List
