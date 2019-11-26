@@ -192,6 +192,7 @@
 - [x] 0816 Ambiguous Coordinates
 - [x] 0842 Split Array into Fibonacci Sequence
 - [x] 0848 Shifting Letters
+- [x] 0856 Score of Parentheses
 - [x] 0890 Find and Replace Pattern
 - [x] 0916 Word Subsets
 
