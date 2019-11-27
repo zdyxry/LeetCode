@@ -182,6 +182,7 @@
 - [x] 0022 Generate Parentheses
 - [x] 0043 Multiply Strings
 - [x] 0093 Restore IP Addresses
+- [x] 0151 Reverse Words in a String
 - [x] 0227 Basic Calculator II
 - [x] 0539 Minimum Time Difference
 - [x] 0583 Delete Operation for Two Strings
