@@ -231,6 +231,7 @@
 - [x] 0103 Binary Tree Zigzag Level Order Traversal
 - [x] 0144 Binary Tree Preorder Traversal
 - [x] 0150 Evaluate Reverse Polish Notation
+- [x] 0331 Verify Preorder Serialization of a Binary Tree
 
 ## Heap
 
