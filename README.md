@@ -232,6 +232,7 @@
 - [x] 0144 Binary Tree Preorder Traversal
 - [x] 0150 Evaluate Reverse Polish Notation
 - [x] 0331 Verify Preorder Serialization of a Binary Tree
+- [x] 0394 Decode String
 
 ## Heap
 
