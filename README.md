@@ -234,6 +234,7 @@
 - [x] 0331 Verify Preorder Serialization of a Binary Tree
 - [x] 0394 Decode String
 - [x] 0402 Remove K Digits
+- [x] 0456 132 Pattern
 
 ## Heap
 
