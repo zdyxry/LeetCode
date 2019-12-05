@@ -235,6 +235,7 @@
 - [x] 0394 Decode String
 - [x] 0402 Remove K Digits
 - [x] 0456 132 Pattern
+- [x] 0503 Next Greater Element II
 
 ## Heap
 
