@@ -237,6 +237,7 @@
 - [x] 0402 Remove K Digits
 - [x] 0456 132 Pattern
 - [x] 0503 Next Greater Element II
+- [x] 0735 Asteroid Collision
 
 ## Heap
 
