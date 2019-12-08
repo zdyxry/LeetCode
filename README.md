@@ -238,6 +238,7 @@
 - [x] 0456 132 Pattern
 - [x] 0503 Next Greater Element II
 - [x] 0735 Asteroid Collision
+- [x] 0880 Decoded String at Index
 
 ## Heap
 
