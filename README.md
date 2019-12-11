@@ -241,6 +241,7 @@
 - [x] 0880 Decoded String at Index
 - [x] 0907 Sum of Subarray Minimums
 - [x] 0921 Minimum Add to Make Parentheses Valid
+- [x] 0946 Validate Stack Sequences
 
 ## Heap
 
