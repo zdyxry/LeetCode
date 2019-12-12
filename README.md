@@ -46,7 +46,6 @@
 - [x] 0189 Rotate Array
 - [x] 0217 Contains Duplicate
 - [x] 0219 Contains Duplicate II
-- [ ] 0243 Shortest Word Distance 
 - [x] 0268 Missing Number
 - [x] 0283 Move Zeroes
 - [x] 0414 Third Maximum Number
@@ -249,6 +248,10 @@
 
 - [x] 0703 Kth Largest Element in a Stream
 - [x] 1046 Last Stone Weight
+
+### Medium
+
+- [x] 0215 Kth Largest Element in an Array
 
 
 ## Tree
