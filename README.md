@@ -252,6 +252,7 @@
 ### Medium
 
 - [x] 0215 Kth Largest Element in an Array
+- [x] 0264 Ugly Number II
 
 
 ## Tree
