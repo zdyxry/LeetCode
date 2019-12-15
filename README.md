@@ -320,3 +320,4 @@
 
 - [x] 0168 Excel Sheet Column Title
 - [x] 0171 Excel Sheet Column Number
+- [x] 0263 Ugly Number
