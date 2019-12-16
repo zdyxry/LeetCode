@@ -254,6 +254,7 @@
 - [x] 0215 Kth Largest Element in an Array
 - [x] 0264 Ugly Number II
 - [x] 0313 Super Ugly Number
+- [x] 0373 Find K Pairs with Smallest Sums
 
 
 ## Tree
