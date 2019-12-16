@@ -253,6 +253,7 @@
 
 - [x] 0215 Kth Largest Element in an Array
 - [x] 0264 Ugly Number II
+- [x] 0313 Super Ugly Number
 
 
 ## Tree
