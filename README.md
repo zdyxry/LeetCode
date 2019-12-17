@@ -255,6 +255,7 @@
 - [x] 0264 Ugly Number II
 - [x] 0313 Super Ugly Number
 - [x] 0373 Find K Pairs with Smallest Sums
+- [x] 0378 Kth Smallest Element in a Sorted Matrix
 
 
 ## Tree
