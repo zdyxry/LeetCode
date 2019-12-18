@@ -30,6 +30,7 @@ func isPossible(nums []int) bool {
 		} else {
 			return false
 		}
+		fmt.Println(v, tail, counter)
 	}
 	return true
 }
