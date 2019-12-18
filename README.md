@@ -256,6 +256,7 @@
 - [x] 0313 Super Ugly Number
 - [x] 0373 Find K Pairs with Smallest Sums
 - [x] 0378 Kth Smallest Element in a Sorted Matrix
+- [x] 0659 Split Array into Consecutive Subsequences
 
 
 ## Tree
