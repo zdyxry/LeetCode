@@ -333,3 +333,4 @@
 ### Medium
 
 - [x] 0046 Permutations
+- [x] 0047 Permutations II
