@@ -334,4 +334,5 @@
 
 - [x] 0046 Permutations
 - [x] 0047 Permutations II
-- [ ] 0060 Permutation Sequence
+- [x] 0060 Permutation Sequence
+- [x] 0077 Combinations
