@@ -326,7 +326,9 @@
 - [x] 0171 Excel Sheet Column Number
 - [x] 0263 Ugly Number
 
+### Medium
 
+- [x] 0343 Integer Break
 
 ## Backtracking
 
