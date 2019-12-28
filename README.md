@@ -222,6 +222,7 @@
 ### Easy
 
 - [x] 0155 Min Stack
+- [x] 0225 Implement Stack using Queues
 - [x] 0232 Implement Queue using Stacks
 - [x] 0496 Next Greater Element I
 - [x] 0844 Backspace String Compare
