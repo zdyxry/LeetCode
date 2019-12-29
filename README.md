@@ -11,6 +11,7 @@
 - [x] 0371 Sum Of Two Integers
 - [x] 0389 Find The Difference
 - [x] 0401 Binary Watch
+- [x] 0405 Convert a Number to Hexadecimal
 - [x] 0461 Hamming Distance
 - [x] 0645 Set Mismatch
 - [x] 0693 Binary Number with Alternating Bits
