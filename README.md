@@ -49,6 +49,7 @@
 - [x] 0219 Contains Duplicate II
 - [x] 0268 Missing Number
 - [x] 0283 Move Zeroes
+- [x] 0412 Fizz Buzz
 - [x] 0414 Third Maximum Number
 - [x] 0448 Find All Numbers Disappeared in an Array
 - [x] 0485 Max Consecutive Ones
