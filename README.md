@@ -330,6 +330,7 @@
 - [x] 0171 Excel Sheet Column Number
 - [x] 0172 Factorial Trailing Zeroes
 - [x] 0263 Ugly Number
+- [x] 0441 Arranging Coins
 
 ### Medium
 
