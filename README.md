@@ -168,6 +168,7 @@
 - [x] 0383 Ransom Note
 - [x] 0415 Add Strings
 - [x] 0434 Number of Segments in a String
+- [x] 0443 String Compression
 - [x] 0459 Repeated Substring Pattern
 - [x] 0520 Detect Capital
 - [x] 0557 Reverse Words in a String III
