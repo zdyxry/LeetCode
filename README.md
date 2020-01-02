@@ -219,6 +219,7 @@
 
 ### Medium
 - [x] 0002 Add Two Numbers
+- [x] 0019 Remove Nth Node From End of List
 
 
 ## Stack
