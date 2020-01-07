@@ -236,6 +236,7 @@
 
 
 ### Medium
+- [x] 0071 Simplify Path
 - [x] 0103 Binary Tree Zigzag Level Order Traversal
 - [x] 0144 Binary Tree Preorder Traversal
 - [x] 0150 Evaluate Reverse Polish Notation
