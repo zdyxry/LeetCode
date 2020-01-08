@@ -222,6 +222,7 @@
 - [x] 0019 Remove Nth Node From End of List
 - [x] 0024 Swap Nodes in Pairs
 - [x] 0061 Rotate List
+- [x] 0082 Remove Duplicates from Sorted List II
 
 
 ## Stack
