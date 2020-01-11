@@ -224,6 +224,7 @@
 - [x] 0061 Rotate List
 - [x] 0082 Remove Duplicates from Sorted List II
 - [x] 0086 Partition List
+- [x] 0092 Reverse Linked List II
 
 
 ## Stack
