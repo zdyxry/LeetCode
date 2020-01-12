@@ -309,6 +309,9 @@
 - [x] 0965 Univalued Binary Tree
 - [x] 0993 Cousins in Binary Tree
 
+### Medium
+
+- [x] 0095 Unique Binary Search Trees II
 
 ## Binary Search
 
