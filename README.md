@@ -312,6 +312,7 @@
 ### Medium
 
 - [x] 0095 Unique Binary Search Trees II
+- [x] 0096 Unique Binary Search Trees
 
 ## Binary Search
 
