@@ -314,6 +314,7 @@
 - [x] 0095 Unique Binary Search Trees II
 - [x] 0096 Unique Binary Search Trees
 - [x] 0098 Validate Binary Search Tree
+- [x] 0102 Binary Tree Level Order Traversal
 
 ## Binary Search
 
