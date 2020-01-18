@@ -317,6 +317,7 @@
 - [x] 0098 Validate Binary Search Tree
 - [x] 0102 Binary Tree Level Order Traversal
 - [x] 0113 Path Sum II
+- [x] 0114 Flatten Binary Tree to Linked List
 
 ## Binary Search
 
