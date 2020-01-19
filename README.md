@@ -372,3 +372,7 @@
 ### Easy
 
 - [x] 0198 House Robber
+
+### Medium
+
+- [x] 0139 Word Break
