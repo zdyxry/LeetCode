@@ -318,6 +318,7 @@
 - [x] 0102 Binary Tree Level Order Traversal
 - [x] 0113 Path Sum II
 - [x] 0114 Flatten Binary Tree to Linked List
+- [x] 0129 Sum Root to Leaf Numbers
 
 ## Binary Search
 
