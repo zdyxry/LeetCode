@@ -341,6 +341,9 @@
 - [x] 0350 Intersection of Two Arrays II
 - [x] 0976 Largest Perimeter Triangle
 
+### Medium
+
+- [x] 0179 Largest Number
 
 ## Math
 
