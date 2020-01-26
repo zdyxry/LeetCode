@@ -382,3 +382,9 @@
 ### Medium
 
 - [x] 0139 Word Break
+
+## Depth-First Search
+
+### Medium
+
+- [x] 0200 Number of Islands
