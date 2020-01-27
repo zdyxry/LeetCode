@@ -378,6 +378,7 @@
 ### Easy
 
 - [x] 0198 House Robber
+- [x] 0221 Maximal Square
 
 ### Medium
 
