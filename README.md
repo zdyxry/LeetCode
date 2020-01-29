@@ -322,6 +322,7 @@
 - [x] 0114 Flatten Binary Tree to Linked List
 - [x] 0129 Sum Root to Leaf Numbers
 - [x] 0199 Binary Tree Right Side View
+- [x] 0236 Lowest Common Ancestor of a Binary Tree
 
 ## Binary Search
 
