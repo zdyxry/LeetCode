@@ -335,6 +335,9 @@
 - [x] 0704 Binary Search
 
 
+### Medium
+- [x] 0240 Search a 2D Matrix II
+
 ## Sort
 
 ### Easy
