@@ -390,6 +390,7 @@
 - [x] 0139 Word Break
 - [x] 0279 Perfect Squares
 - [x] 0309 Best Time to Buy and Sell Stock with Cooldown
+- [x] 0322 Coin Change
 
 ## Depth-First Search
 
