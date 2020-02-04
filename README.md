@@ -392,6 +392,7 @@
 - [x] 0309 Best Time to Buy and Sell Stock with Cooldown
 - [x] 0322 Coin Change
 - [x] 0375 Guess Number Higher or Lower II
+- [x] 0494 Target Sum
 
 ## Depth-First Search
 
