@@ -320,6 +320,7 @@
 - [x] 0102 Binary Tree Level Order Traversal
 - [x] 0113 Path Sum II
 - [x] 0114 Flatten Binary Tree to Linked List
+- [x] 0116 Populating Next Right Pointers in Each Node
 - [x] 0129 Sum Root to Leaf Numbers
 - [x] 0199 Binary Tree Right Side View
 - [x] 0230 Kth Smallest Element in a BST
