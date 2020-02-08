@@ -389,6 +389,7 @@
 
 ### Medium
 
+- [x] 0072 Edit Distance
 - [x] 0091 Decode Ways
 - [x] 0139 Word Break
 - [x] 0279 Perfect Squares
