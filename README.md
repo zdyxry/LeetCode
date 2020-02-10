@@ -181,6 +181,7 @@
 ### Medium
 
 - [x] 0005 Longest Palindromic Substring
+- [x] 0006 ZigZag Conversion
 - [x] 0017 Letter Combinations of a Phone Number
 - [x] 0022 Generate Parentheses
 - [x] 0043 Multiply Strings
