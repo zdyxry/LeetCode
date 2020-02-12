@@ -231,6 +231,7 @@
 - [x] 0142 Linked List Cycle II
 - [x] 0143 Reorder List
 - [x] 0148 Sort List
+- [x] 0445 Add Two Numbers II
 
 ## Stack
 
