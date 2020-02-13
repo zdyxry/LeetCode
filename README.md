@@ -372,6 +372,7 @@
 - [x] 0029 Divide Two Integers
 - [x] 0050 Pow(x, n)
 - [x] 0343 Integer Break
+- [x] 1344 Angle Between Hands of a Clock
 
 ## Backtracking
 
