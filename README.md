@@ -202,6 +202,7 @@
 - [x] 0856 Score of Parentheses
 - [x] 0890 Find and Replace Pattern
 - [x] 0916 Word Subsets
+- [x] 1347 Minimum Number of Steps to Make Two Strings Anagram
 
 
 ## Linked List
