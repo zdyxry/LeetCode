@@ -423,3 +423,4 @@
 ### Medium
 
 - [x] 1348 Tweet Counts Per Frequency
+- [x] 1352 Product of the Last K Numbers
