@@ -416,3 +416,10 @@
 ### Medium
 
 - [x] 0127 Word Ladder
+
+
+## Design
+
+### Medium
+
+- [x] 1348 Tweet Counts Per Frequency
