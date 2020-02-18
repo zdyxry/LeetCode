@@ -424,3 +424,10 @@
 
 - [x] 1348 Tweet Counts Per Frequency
 - [x] 1352 Product of the Last K Numbers
+
+
+## Greedy
+
+### Medium
+
+- [x] 1353. Maximum Number of Events That Can Be Attended
