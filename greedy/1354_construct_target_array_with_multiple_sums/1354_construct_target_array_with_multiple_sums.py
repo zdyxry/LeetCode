@@ -9,7 +9,7 @@ class Solution(object):
             idx = target.index(current_x)
             s = sum(target)
             inc = s - current_x
-            if inc > current_x or inc ==0:
+            if inc >= current_x or inc ==0:
                 return False
 
             target[idx] = current_x % inc
