@@ -152,7 +152,7 @@
 - [x] 0560 Subarray Sum Equals K
 - [x] 0648 Replace Words
 - [x] 0692 Top K Frequent Words
-- [x] 0718. Maximum Length of Repeated Subarray
+- [x] 0718 Maximum Length of Repeated Subarray
 - [x] 0739 Daily Temperatures
 - [x] 0930 Binary Subarrays With Sum
 - [x] 0954 Array of Doubled Pairs
@@ -430,4 +430,5 @@
 
 ### Medium
 
-- [x] 1353. Maximum Number of Events That Can Be Attended
+- [x] 1353 Maximum Number of Events That Can Be Attended
+- [x] 1354 Construct Target Array With Multiple Sums
