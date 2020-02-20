@@ -409,6 +409,7 @@
 ### Medium
 
 - [x] 0200 Number of Islands
+- [x] 1315 Sum of Nodes with Even-Valued Grandparent
 
 
 ## Breadth-First Search
