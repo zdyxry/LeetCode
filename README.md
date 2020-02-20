@@ -113,6 +113,7 @@
 - [x] 0238 Product of Array Except Self
 - [x] 0287 Find the Duplicate Number
 - [x] 0442 Find All Duplicates in an Array
+- [x] 1300 Sum of Mutated Array Closest to Target
 - [x] 1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 
 ## Hash Table
