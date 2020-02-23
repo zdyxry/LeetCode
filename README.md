@@ -205,6 +205,7 @@
 - [x] 0890 Find and Replace Pattern
 - [x] 0916 Word Subsets
 - [x] 1347 Minimum Number of Steps to Make Two Strings Anagram
+- [x] 1358 Number of Substrings Containing All Three Characters
 
 
 ## Linked List
