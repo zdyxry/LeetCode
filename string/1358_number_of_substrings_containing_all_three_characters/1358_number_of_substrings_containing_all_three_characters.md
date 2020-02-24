@@ -44,39 +44,32 @@ s only consists of a, b or c characters.
 
 ```go
 func numberOfSubstrings(s string) int {
-    if len(s) <= 2{
-        return 0
-    }
-    i, j := 0, 3                    // 初始化指针
+	ans := 0
+	lo := -1
+	cnt := []int{0, 0, 0}
 
-    now := []int{0,0,0}             // 三长度的数组用于存放当前子串a b c各自数量
-
-    for z:=0; z<3; z++{             // 初始化数量数组
-        now[s[z]-'a'] ++
-    }
-
-    out := 0
-    for i<len(s)-2 {                // 边界条件可以是这个也可以是j <= len(s) 
-        if !zeroInArray(now){       // abc都不为0个
-            out += (len(s)-j+1)     // 加结果
-            now[s[i]-'a'] --        // 取出第i个字符
-            i++                     
-        } else {                        
-            j++
-            if j > len(s){break}    // 越界弹出
-            now[s[j-1]-'a'] ++      // 增加第j个字符
-        }
-    }
-    return out
+	for hi, c := range s {
+		cnt[c-'a']++
+		for {
+			if zeroArray(cnt) {
+				break
+			} else {
+				ans += len(s) - hi
+				lo++
+				cnt[s[lo]-'a']--
+			}
+		}
+	}
+	return ans
 }
 
-func zeroInArray(nums []int) bool { // 判断数量数组中是否有0
-    for _, c := range nums{
-        if c == 0{
-            return true
-        }
-    }
-    return false
+func zeroArray(nums []int) bool {
+	for _, c := range nums {
+		if c == 0 {
+			return true
+		}
+	}
+	return false
 }
 ```
 

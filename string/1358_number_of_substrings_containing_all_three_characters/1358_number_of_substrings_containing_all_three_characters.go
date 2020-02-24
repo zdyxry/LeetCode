@@ -33,18 +33,37 @@ func numberOfSubstrings(s string) int {
 	return out
 }
 
+func numberOfSubstrings2(s string) int {
+	ans := 0
+	lo := -1
+	cnt := []int{0, 0, 0}
+
+	for hi, c := range s {
+		cnt[c-'a']++
+		for {
+			if zeroArray(cnt) {
+				break
+			} else {
+				ans += len(s) - hi
+				lo++
+				cnt[s[lo]-'a']--
+			}
+		}
+	}
+	return ans
+}
+
 func zeroArray(nums []int) bool {
 	for _, c := range nums {
 		if c == 0 {
 			return true
 		}
 	}
-
 	return false
 }
 
 func main() {
 	s := "abcc"
-	res := numberOfSubstrings(s)
+	res := numberOfSubstrings2(s)
 	fmt.Println(res)
 }
