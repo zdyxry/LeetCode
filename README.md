@@ -378,6 +378,7 @@
 - [x] 0343 Integer Break
 - [x] 1344 Angle Between Hands of a Clock
 - [x] 1362 Closest Divisors
+- [x] 1363 Largest Multiple of Three
 
 ## Backtracking
 
