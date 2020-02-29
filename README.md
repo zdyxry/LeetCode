@@ -336,6 +336,7 @@
 - [x] 0199 Binary Tree Right Side View
 - [x] 0230 Kth Smallest Element in a BST
 - [x] 0236 Lowest Common Ancestor of a Binary Tree
+- [x] 0654 Maximum Binary Tree
 
 ## Binary Search
 
