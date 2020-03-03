@@ -119,6 +119,7 @@
 - [x] 1337 The K Weakest Rows in a Matrix
 - [x] 1338 Reduce Array Size to The Half
 - [x] 1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+- [x] 1366 Rank Teams by Votes
 
 ## Hash Table
 
