@@ -185,6 +185,8 @@
 - [x] 0859 Buddy Strings
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
+- [x] 1309 Decrypt String from Alphabet to Integer Mapping
+
 
 ### Medium
 
