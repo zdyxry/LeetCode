@@ -186,6 +186,7 @@
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
 - [x] 1309 Decrypt String from Alphabet to Integer Mapping
+- [x] 1370 Increasing Decreasing String
 
 
 ### Medium
