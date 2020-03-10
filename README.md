@@ -214,6 +214,8 @@
 - [x] 0916 Word Subsets
 - [x] 1347 Minimum Number of Steps to Make Two Strings Anagram
 - [x] 1358 Number of Substrings Containing All Three Characters
+- [x] 1371 Find the Longest Substring Containing Vowels in Even Counts
+
 
 
 ## Linked List
