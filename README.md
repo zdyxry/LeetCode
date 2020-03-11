@@ -120,6 +120,7 @@
 - [x] 1338 Reduce Array Size to The Half
 - [x] 1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 - [x] 1366 Rank Teams by Votes
+- [x] 1375 Bulb Switcher III
 
 ## Hash Table
 
