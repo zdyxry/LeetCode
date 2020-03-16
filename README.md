@@ -450,6 +450,7 @@
 - [x] 1348 Tweet Counts Per Frequency
 - [x] 1352 Product of the Last K Numbers
 - [x] 1357 Apply Discount Every n Orders
+- [x] 1381 Design a Stack With Increment Operation
 
 
 ## Greedy
