@@ -350,6 +350,7 @@
 - [x] 0236 Lowest Common Ancestor of a Binary Tree
 - [x] 0654 Maximum Binary Tree
 - [x] 1372 Longest ZigZag Path in a Binary Tree
+- [x] 1382 Balance a Binary Search Tree
 
 ## Binary Search
 
