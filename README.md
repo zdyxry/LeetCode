@@ -431,6 +431,10 @@
 
 ## Depth-First Search
 
+### Easy
+
+- [x] 0897 Increasing Order Search Tree
+
 ### Medium
 
 - [x] 0200 Number of Islands
