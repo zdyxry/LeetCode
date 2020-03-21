@@ -481,3 +481,7 @@
 
 - [x] 1137 N-th Tribonacci Number
 
+
+### Medium
+
+- [x] 0779 K-th Symbol in Grammar
