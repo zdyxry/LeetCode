@@ -77,6 +77,8 @@
 - [x] 1287 Element Appearing More Than 25% In Sorted Array
 - [x] 1365 How Many Numbers Are Smaller Than the Current Number
 - [x] 1380 Lucky Numbers in a Matrix
+- [x] 1385 Find the Distance Value Between Two Arrays
+
 
 ### Medium
 - [x] 0011 Container With Most Water
