@@ -381,6 +381,8 @@
 ### Medium
 
 - [x] 0179 Largest Number
+- [x] 1387 Sort Integers by The Power Value
+
 
 ## Math
 
