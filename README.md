@@ -78,6 +78,8 @@
 - [x] 1365 How Many Numbers Are Smaller Than the Current Number
 - [x] 1380 Lucky Numbers in a Matrix
 - [x] 1385 Find the Distance Value Between Two Arrays
+- [x] 1389 Create Target Array in the Given Order
+
 
 
 ### Medium
