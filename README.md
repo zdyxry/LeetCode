@@ -189,6 +189,7 @@
 - [x] 0557 Reverse Words in a String III
 - [x] 0680 Valid Palindrome II
 - [x] 0696 Count Binary Substrings
+- [x] 0804 Unique Morse Code Words
 - [x] 0859 Buddy Strings
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
