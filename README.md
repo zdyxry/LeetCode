@@ -79,6 +79,8 @@
 - [x] 1380 Lucky Numbers in a Matrix
 - [x] 1385 Find the Distance Value Between Two Arrays
 - [x] 1389 Create Target Array in the Given Order
+- [x] 1394 Find Lucky Integer in an Array
+
 
 
 
