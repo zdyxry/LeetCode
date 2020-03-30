@@ -129,6 +129,8 @@
 - [x] 1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 - [x] 1366 Rank Teams by Votes
 - [x] 1375 Bulb Switcher III
+- [x] 1395 Count Number of Teams
+
 
 ## Hash Table
 
