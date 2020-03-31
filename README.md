@@ -471,6 +471,8 @@
 - [x] 1352 Product of the Last K Numbers
 - [x] 1357 Apply Discount Every n Orders
 - [x] 1381 Design a Stack With Increment Operation
+- [x] 1396 Design Underground System
+
 
 
 ## Greedy
