@@ -480,6 +480,11 @@
 
 ## Greedy
 
+### Easy
+
+- [x] 1221 Split a String in Balanced Strings
+
+
 ### Medium
 
 - [x] 1094 Car Pooling
