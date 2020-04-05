@@ -80,6 +80,8 @@
 - [x] 1385 Find the Distance Value Between Two Arrays
 - [x] 1389 Create Target Array in the Given Order
 - [x] 1394 Find Lucky Integer in an Array
+- [x] 1399 Count Largest Group
+
 
 
 
