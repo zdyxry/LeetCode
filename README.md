@@ -415,6 +415,8 @@
 - [x] 1362 Closest Divisors
 - [x] 1363 Largest Multiple of Three
 - [x] 1390 Four Divisors
+- [x] 1401 Circle and Rectangle Overlapping
+
 
 
 ## Backtracking
