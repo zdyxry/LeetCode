@@ -229,6 +229,8 @@
 - [x] 1347 Minimum Number of Steps to Make Two Strings Anagram
 - [x] 1358 Number of Substrings Containing All Three Characters
 - [x] 1371 Find the Longest Substring Containing Vowels in Even Counts
+- [x] 1404 Number of Steps to Reduce a Number in Binary Representation to One
+
 
 
 
