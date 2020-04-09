@@ -500,6 +500,8 @@
 - [x] 1354 Construct Target Array With Multiple Sums
 - [x] 1386 Cinema Seat Allocation
 - [x] 1400 Construct K Palindrome Strings
+- [x] 1405 Longest Happy String
+
 
 
 
