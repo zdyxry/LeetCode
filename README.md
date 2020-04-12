@@ -203,6 +203,8 @@
 - [x] 1309 Decrypt String from Alphabet to Integer Mapping
 - [x] 1370 Increasing Decreasing String
 - [x] 1374 Generate a String With Characters That Have Odd Counts
+- [x] 1408 String Matching in an Array
+
 
 
 ### Medium
