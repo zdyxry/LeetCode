@@ -235,7 +235,7 @@
 - [x] 1358 Number of Substrings Containing All Three Characters
 - [x] 1371 Find the Longest Substring Containing Vowels in Even Counts
 - [x] 1404 Number of Steps to Reduce a Number in Binary Representation to One
-
+- [x] 1410 HTML Entity Parser
 
 
 
