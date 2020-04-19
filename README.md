@@ -205,7 +205,7 @@
 - [x] 1370 Increasing Decreasing String
 - [x] 1374 Generate a String With Characters That Have Odd Counts
 - [x] 1408 String Matching in an Array
-
+- [x] 1417 Reformat The String
 
 
 ### Medium
