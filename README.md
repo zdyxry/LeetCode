@@ -178,6 +178,7 @@
 - [x] 0930 Binary Subarrays With Sum
 - [x] 0954 Array of Doubled Pairs
 - [x] 0974 Subarray Sums Divisible by K
+- [x] 1418 Display Table of Food Orders in a Restaurant
 
 ## String
 
