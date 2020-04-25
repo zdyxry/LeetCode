@@ -123,7 +123,7 @@
 - [x] 0238 Product of Array Except Self
 - [x] 0287 Find the Duplicate Number
 - [x] 0442 Find All Duplicates in an Array
-- [ ] 0926 Flip String to Monotone Increasing
+- [x] 0926 Flip String to Monotone Increasing
 - [x] 1300 Sum of Mutated Array Closest to Target
 - [x] 1329 Sort the Matrix Diagonally
 - [x] 1337 The K Weakest Rows in a Matrix
@@ -413,6 +413,7 @@
 - [x] 0172 Factorial Trailing Zeroes
 - [x] 0263 Ugly Number
 - [x] 0441 Arranging Coins
+- [x] 0504 Base 7
 - [x] 1154 Day of the Year
 - [x] 1232 Check If It Is a Straight Line
 
