@@ -208,7 +208,7 @@
 - [x] 1374 Generate a String With Characters That Have Odd Counts
 - [x] 1408 String Matching in an Array
 - [x] 1417 Reformat The String
-
+- [x] 1422 Maximum Score After Splitting a String
 
 ### Medium
 
