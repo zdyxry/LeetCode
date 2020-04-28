@@ -134,7 +134,7 @@
 - [x] 1395 Count Number of Teams
 - [x] 1409 Queries on a Permutation With Key
 - [x] 1423 Maximum Points You Can Obtain from Cards
-
+- [x] 1424 Diagonal Traverse II
 
 
 ## Hash Table
