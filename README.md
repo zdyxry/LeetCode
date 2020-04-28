@@ -133,6 +133,7 @@
 - [x] 1375 Bulb Switcher III
 - [x] 1395 Count Number of Teams
 - [x] 1409 Queries on a Permutation With Key
+- [x] 1423 Maximum Points You Can Obtain from Cards
 
 
 
