@@ -13,6 +13,7 @@
 - [x] 0401 Binary Watch
 - [x] 0405 Convert a Number to Hexadecimal
 - [x] 0461 Hamming Distance
+- [x] 0476 Number Complement
 - [x] 0645 Set Mismatch
 - [x] 0693 Binary Number with Alternating Bits
 - [x] 0762 Prime Number of Set Bits in Binary Representation
