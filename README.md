@@ -84,6 +84,7 @@
 - [x] 1394 Find Lucky Integer in an Array
 - [x] 1399 Count Largest Group
 - [x] 1413 Minimum Value to Get Positive Step by Step Sum
+- [x] 1431 Kids With the Greatest Number of Candies
 
 
 
