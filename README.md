@@ -214,6 +214,7 @@
 - [x] 1408 String Matching in an Array
 - [x] 1417 Reformat The String
 - [x] 1422 Maximum Score After Splitting a String
+- [x] 1436 Destination City
 
 ### Medium
 
