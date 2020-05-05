@@ -245,6 +245,7 @@
 - [x] 1404 Number of Steps to Reduce a Number in Binary Representation to One
 - [x] 1410 HTML Entity Parser
 - [x] 1419 Minimum Number of Frogs Croaking
+- [x] 1432 Max Difference You Can Get From Changing an Integer
 
 
 ## Linked List
