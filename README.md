@@ -140,6 +140,8 @@
 - [x] 1423 Maximum Points You Can Obtain from Cards
 - [x] 1424 Diagonal Traverse II
 - [x] 1437 Check If All 1's Are at Least Length K Places Away
+- [x] 1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+
 
 ## Hash Table
 
