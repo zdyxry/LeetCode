@@ -29,6 +29,7 @@
 - [x] 0318 Maximum Product of Word Lengths
 - [x] 0338 Counting Bits
 - [x] 0421 Maximum XOR of Two Numbers in an Array
+- [x] 1442 Count Triplets That Can Form Two Arrays of Equal XOR
 
 ## Array
 
