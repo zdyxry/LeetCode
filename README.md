@@ -431,6 +431,7 @@
 - [x] 0504 Base 7
 - [x] 1154 Day of the Year
 - [x] 1232 Check If It Is a Straight Line
+- [x] 1317 Convert Integer to the Sum of Two No-Zero Integers
 
 ### Medium
 
