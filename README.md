@@ -73,6 +73,7 @@
 - [x] 0766 Toeplitz Matrix
 - [x] 0830 Positions of Large Groups
 - [x] 0849 Maximize Distance to Closest Person
+- [x] 0888 Fair Candy Swap
 - [x] 0905 Sort Array By Parity
 - [x] 0922 Sort Array By Parity II
 - [x] 0977 Squares of a Sorted Array
