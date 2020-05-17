@@ -221,6 +221,7 @@
 - [x] 1417 Reformat The String
 - [x] 1422 Maximum Score After Splitting a String
 - [x] 1436 Destination City
+- [x] 1446 Consecutive Characters
 
 ### Medium
 
