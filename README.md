@@ -495,6 +495,8 @@
 - [x] 1315 Sum of Nodes with Even-Valued Grandparent
 - [x] 1376 Time Needed to Inform All Employees
 - [x] 1443 Minimum Time to Collect All Apples in a Tree
+- [x] 1448 Count Good Nodes in Binary Tree
+
 
 
 ## Breadth-First Search
