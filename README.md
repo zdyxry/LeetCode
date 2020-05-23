@@ -256,6 +256,8 @@
 - [x] 1419 Minimum Number of Frogs Croaking
 - [x] 1432 Max Difference You Can Get From Changing an Integer
 - [x] 1433 Check If a String Can Break Another String
+- [x] 1451 Rearrange Words in a Sentence
+
 
 
 ## Linked List
