@@ -424,6 +424,7 @@
 
 - [x] 0179 Largest Number
 - [x] 1387 Sort Integers by The Power Value
+- [x] 1452 People Whose List of Favorite Companies Is Not a Subset of Another List
 
 
 ## Math
