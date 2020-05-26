@@ -79,6 +79,7 @@
 - [x] 0922 Sort Array By Parity II
 - [x] 0977 Squares of a Sorted Array
 - [x] 0989 Add to Array-Form of Integer
+- [x] 1200 Minimum Absolute Difference
 - [x] 1287 Element Appearing More Than 25% In Sorted Array
 - [x] 1365 How Many Numbers Are Smaller Than the Current Number
 - [x] 1380 Lucky Numbers in a Matrix
