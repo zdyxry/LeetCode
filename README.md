@@ -506,6 +506,8 @@
 - [x] 1376 Time Needed to Inform All Employees
 - [x] 1443 Minimum Time to Collect All Apples in a Tree
 - [x] 1448 Count Good Nodes in Binary Tree
+- [x] 1457 Pseudo-Palindromic Paths in a Binary Tree
+
 
 
 
