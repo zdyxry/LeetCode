@@ -489,6 +489,7 @@
 - [x] 0322 Coin Change
 - [x] 0375 Guess Number Higher or Lower II
 - [x] 0494 Target Sum
+- [x] 1155 Number of Dice Rolls With Target Sum
 - [x] 1262 Greatest Sum Divisible by Three
 
 
