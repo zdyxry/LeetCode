@@ -90,6 +90,7 @@
 - [x] 1413 Minimum Value to Get Positive Step by Step Sum
 - [x] 1431 Kids With the Greatest Number of Candies
 - [x] 1450 Number of Students Doing Homework at a Given Time
+- [x] 1460 Make Two Arrays Equal by Reversing Sub-arrays
 
 
 
