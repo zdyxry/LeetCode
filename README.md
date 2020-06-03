@@ -149,6 +149,7 @@
 - [x] 1424 Diagonal Traverse II
 - [x] 1437 Check If All 1's Are at Least Length K Places Away
 - [x] 1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+- [x] 1465 Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 
 
 ## Hash Table
