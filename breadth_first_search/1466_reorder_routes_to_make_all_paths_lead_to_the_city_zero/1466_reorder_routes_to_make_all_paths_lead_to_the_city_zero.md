@@ -56,3 +56,66 @@ connections[i][0] != connections[i][1]
 ## 方法
 
 
+```go
+func minReorder(n int, connections [][]int) int {
+    from, to := 1, 2
+    m := map[int]map[int]int{}
+    for i := 0; i < n; i++ {
+        m[i] = make(map[int]int)
+    }
+    for _, c := range connections {
+        m[c[0]][c[1]] = from
+        m[c[1]][c[0]] = to
+    }
+    
+    fmt.Println(m)
+
+    modify := 0
+    stack := []int{0}
+    visited := map[int]bool{0: true}
+    for i := 0; i < len(stack); i++ {
+        for k, v := range m[stack[i]] {
+            if visited[k] {
+                continue
+            }
+            if v == from {
+                modify++
+            }
+            stack = append(stack, k)
+            visited[k] = true
+        }
+    }
+    return modify
+}
+```
+
+
+```python
+class Solution:
+    def minReorder(self, n: int, connections: List[List[int]]) -> int:
+        edges = { (a,b) for a, b in connections } # instantly check if a->b
+        neighbors = { i:[] for i in range(n)}     # adjacent cities
+        visit = set()                             # visit each city once
+        changes = 0
+        
+        for a, b in connections:
+            neighbors[a].append(b)
+            neighbors[b].append(a)
+        
+        # dfs from City 0, count outgoing edges
+        def dfs(city):
+            nonlocal edges, neighbors, visit, changes
+            
+            for neighbor in neighbors[city]:
+                if neighbor in visit:
+                    continue
+                # neighbor can't reach city
+                if (neighbor, city) not in edges:
+                    changes += 1
+                visit.add(neighbor)
+                dfs(neighbor)
+        
+        visit.add(0)
+        dfs(0)
+        return changes
+```

@@ -521,7 +521,7 @@
 ### Medium
 
 - [x] 0127 Word Ladder
-- [ ] 1466 Reorder Routes to Make All Paths Lead to the City Zero
+- [x] 1466 Reorder Routes to Make All Paths Lead to the City Zero
 
 
 ## Design
