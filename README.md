@@ -536,6 +536,7 @@
 - [x] 1357 Apply Discount Every n Orders
 - [x] 1381 Design a Stack With Increment Operation
 - [x] 1396 Design Underground System
+- [x] 1472 Design Browser History
 
 
 
