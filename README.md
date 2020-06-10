@@ -458,6 +458,7 @@
 - [x] 0029 Divide Two Integers
 - [x] 0050 Pow(x, n)
 - [x] 0343 Integer Break
+- [x] 0754 Reach a Number
 - [x] 1344 Angle Between Hands of a Clock
 - [x] 1362 Closest Divisors
 - [x] 1363 Largest Multiple of Three
