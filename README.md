@@ -95,6 +95,7 @@
 - [x] 1460 Make Two Arrays Equal by Reversing Sub-arrays
 - [x] 1464 Maximum Product of Two Elements in an Array
 - [x] 1470 Shuffle the Array
+- [x] 1475 Final Prices With a Special Discount in a Shop
 
 
 
