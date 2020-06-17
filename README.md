@@ -426,6 +426,8 @@
 
 ### Medium
 - [x] 0240 Search a 2D Matrix II
+- [x] 1482 Minimum Number of Days to Make m Bouquets
+
 
 ## Sort
 
