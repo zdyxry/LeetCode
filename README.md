@@ -409,8 +409,9 @@
 - [x] 0236 Lowest Common Ancestor of a Binary Tree
 - [x] 0654 Maximum Binary Tree
 - [x] 1038 Binary Search Tree to Greater Sum Tree
-- [x] 1302. Deepest Leaves Sum
+- [x] 1302 Deepest Leaves Sum
 - [x] 1372 Longest ZigZag Path in a Binary Tree
+- [x] 1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 - [x] 1382 Balance a Binary Search Tree
 
 ## Binary Search
@@ -485,7 +486,7 @@
 - [x] 0060 Permutation Sequence
 - [x] 0077 Combinations
 - [x] 0131 Palindrome Partitioning
-- [x] 1415. The k-th Lexicographical String of All Happy Strings of Length n
+- [x] 1415 The k-th Lexicographical String of All Happy Strings of Length n
 
 
 ## Dynamic Programming
@@ -567,7 +568,7 @@
 - [x] 1386 Cinema Seat Allocation
 - [x] 1400 Construct K Palindrome Strings
 - [x] 1405 Longest Happy String
-- [x] 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+- [x] 1414 Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
 
 
 ## Trie
