@@ -80,6 +80,7 @@
 - [x] 0922 Sort Array By Parity II
 - [x] 0977 Squares of a Sorted Array
 - [x] 0989 Add to Array-Form of Integer
+- [x] 1089 Duplicate Zeros
 - [x] 1200 Minimum Absolute Difference
 - [x] 1217 Play with Chips
 - [x] 1266 Minimum Time Visiting All Points
