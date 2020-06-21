@@ -19,6 +19,8 @@
 - [x] 0693 Binary Number with Alternating Bits
 - [x] 0762 Prime Number of Set Bits in Binary Representation
 - [x] 0868 Binary Gap
+- [x] 1486 XOR Operation in an Array
+
 
 ### Medium
 
