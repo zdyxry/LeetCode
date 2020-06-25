@@ -161,6 +161,8 @@
 - [x] 1465 Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 - [x] 1471 The k Strongest Values in an Array
 - [x] 1476 Subrectangle Queries
+- [x] 1488 Avoid Flood in The City
+
 
 
 ## Hash Table
