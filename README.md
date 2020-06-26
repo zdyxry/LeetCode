@@ -326,6 +326,7 @@
 - [x] 0496 Next Greater Element I
 - [x] 0682 Baseball Game
 - [x] 0844 Backspace String Compare
+- [x] 1047 Remove All Adjacent Duplicates In String
 - [x] 1441 Build an Array With Stack Operations
 
 
