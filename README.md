@@ -486,6 +486,7 @@
 - [x] 1390 Four Divisors
 - [x] 1401 Circle and Rectangle Overlapping
 - [x] 1447 Simplified Fractions
+- [x] 1492 The kth Factor of n
 
 
 
