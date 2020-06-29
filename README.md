@@ -163,6 +163,7 @@
 - [x] 1471 The k Strongest Values in an Array
 - [x] 1476 Subrectangle Queries
 - [x] 1488 Avoid Flood in The City
+- [x] 1493 Longest Subarray of 1's After Deleting One Element
 
 
 
