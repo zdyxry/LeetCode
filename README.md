@@ -247,6 +247,7 @@
 - [x] 1436 Destination City
 - [x] 1446 Consecutive Characters
 - [x] 1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence
+- [x] 1496 Path Crossing
 
 
 ### Medium
