@@ -164,6 +164,7 @@
 - [x] 1476 Subrectangle Queries
 - [x] 1488 Avoid Flood in The City
 - [x] 1493 Longest Subarray of 1's After Deleting One Element
+- [x] 1497 Check If Array Pairs Are Divisible by k
 
 
 
