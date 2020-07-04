@@ -146,6 +146,7 @@
 - [x] 0498 Diagonal Traverse
 - [x] 0807 Max Increase to Keep City Skyline
 - [x] 0926 Flip String to Monotone Increasing
+- [x] 1233 Remove Sub-Folders from the Filesystem
 - [x] 1300 Sum of Mutated Array Closest to Target
 - [x] 1329 Sort the Matrix Diagonally
 - [x] 1337 The K Weakest Rows in a Matrix
