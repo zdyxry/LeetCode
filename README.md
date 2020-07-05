@@ -102,6 +102,7 @@
 - [x] 1475 Final Prices With a Special Discount in a Shop
 - [x] 1480 Running Sum of 1d Array
 - [x] 1491 Average Salary Excluding the Minimum and Maximum Salary
+- [x] 1502 Can Make Arithmetic Progression From Sequence
 
 
 
