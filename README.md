@@ -352,6 +352,8 @@
 - [x] 0907 Sum of Subarray Minimums
 - [x] 0921 Minimum Add to Make Parentheses Valid
 - [x] 0946 Validate Stack Sequences
+- [x] 1190 Reverse Substrings Between Each Pair of Parentheses
+
 
 ## Heap
 
