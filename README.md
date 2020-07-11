@@ -580,6 +580,7 @@
 
 ### Easy
 
+- [x] 0455 Assign Cookies
 - [x] 0860 Lemonade Change
 - [x] 1221 Split a String in Balanced Strings
 - [x] 1403 Minimum Subsequence in Non-Increasing Order
