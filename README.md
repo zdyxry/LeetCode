@@ -169,6 +169,7 @@
 - [x] 1493 Longest Subarray of 1's After Deleting One Element
 - [x] 1497 Check If Array Pairs Are Divisible by k
 - [x] 1503 Last Moment Before All Ants Fall Out of a Plank
+- [x] 1509 Minimum Difference Between Largest and Smallest Value in Three Moves
 
 
 
