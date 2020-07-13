@@ -104,6 +104,7 @@
 - [x] 1491 Average Salary Excluding the Minimum and Maximum Salary
 - [x] 1502 Can Make Arithmetic Progression From Sequence
 - [x] 1508 Range Sum of Sorted Subarray Sums
+- [x] 1512 Number of Good Pairs
 
 
 
