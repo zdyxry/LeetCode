@@ -502,6 +502,7 @@
 - [x] 1401 Circle and Rectangle Overlapping
 - [x] 1447 Simplified Fractions
 - [x] 1492 The kth Factor of n
+- [x] 1513 Number of Substrings With Only 1s
 
 
 
