@@ -80,6 +80,7 @@
 - [x] 0896 Monotonic Array
 - [x] 0905 Sort Array By Parity
 - [x] 0922 Sort Array By Parity II
+- [x] 0941 Valid Mountain Array
 - [x] 0977 Squares of a Sorted Array
 - [x] 0989 Add to Array-Form of Integer
 - [x] 1089 Duplicate Zeros
