@@ -249,6 +249,7 @@
 - [x] 0859 Buddy Strings
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
+- [x] 1108 Defanging an IP Address
 - [x] 1309 Decrypt String from Alphabet to Integer Mapping
 - [x] 1370 Increasing Decreasing String
 - [x] 1374 Generate a String With Characters That Have Odd Counts
