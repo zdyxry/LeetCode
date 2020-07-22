@@ -559,6 +559,7 @@
 - [x] 1443 Minimum Time to Collect All Apples in a Tree
 - [x] 1448 Count Good Nodes in Binary Tree
 - [x] 1457 Pseudo-Palindromic Paths in a Binary Tree
+- [x] 1519 Number of Nodes in the Sub-Tree With the Same Label
 
 
 
