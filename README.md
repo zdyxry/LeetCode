@@ -86,6 +86,7 @@
 - [x] 1089 Duplicate Zeros
 - [x] 1200 Minimum Absolute Difference
 - [x] 1217 Play with Chips
+- [x] 1260 Shift 2D Grid
 - [x] 1266 Minimum Time Visiting All Points
 - [x] 1287 Element Appearing More Than 25% In Sorted Array
 - [x] 1304 Find N Unique Integers Sum up to Zero
