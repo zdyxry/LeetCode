@@ -30,5 +30,37 @@ Constraints:
 
 ## 方法
 
+```go
+func countOdds(low int, high int) int {
+    if low +1 == high {
+        return 1
+    }
+    if low == high {
+        if low % 2 == 0 {
+            return 0
+        }
+        return 1
+    }
+    if low % 2 == 0 {
+        low++
+    }
+    num := (high - low) / 2
+    return num +1
+}
+
+```
 
 
+
+```python
+class Solution:
+    def countOdds(self, low: int, high: int) -> int:
+        res = high // 2
+        if high % 2 == 1:
+            res += 1
+        if low - 1 >= 0:
+            res -= (low - 1) // 2
+            if (low - 1) % 2 == 1:
+                res -= 1
+        return res
+```
