@@ -32,6 +32,12 @@ Constraints:
 
 ```go
 func countOdds(low int, high int) int {
+	return ((high - 1) >> 1) - (low >> 1) + 1
+}
+```
+
+```go
+func countOdds(low int, high int) int {
     if low +1 == high {
         return 1
     }
