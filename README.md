@@ -175,6 +175,7 @@
 - [x] 1497 Check If Array Pairs Are Divisible by k
 - [x] 1503 Last Moment Before All Ants Fall Out of a Plank
 - [x] 1509 Minimum Difference Between Largest and Smallest Value in Three Moves
+- [x] 1524 Number of Sub-arrays With Odd Sum
 
 
 
