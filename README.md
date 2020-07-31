@@ -472,6 +472,8 @@
 - [x] 0976 Largest Perimeter Triangle
 - [x] 1030 Matrix Cells in Distance Order
 - [x] 1122 Relative Sort Array
+- [x] 1528 Shuffle String
+
 
 ### Medium
 
