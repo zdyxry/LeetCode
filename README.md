@@ -301,6 +301,7 @@
 - [x] 1451 Rearrange Words in a Sentence
 - [x] 1456 Maximum Number of Vowels in a Substring of Given Length
 - [x] 1461 Check If a String Contains All Binary Codes of Size K
+- [x] 1525 Number of Good Ways to Split a String
 
 
 
