@@ -109,6 +109,7 @@
 - [x] 1502 Can Make Arithmetic Progression From Sequence
 - [x] 1508 Range Sum of Sorted Subarray Sums
 - [x] 1512 Number of Good Pairs
+- [x] 1534 Count Good Triplets
 
 
 
