@@ -177,6 +177,7 @@
 - [x] 1503 Last Moment Before All Ants Fall Out of a Plank
 - [x] 1509 Minimum Difference Between Largest and Smallest Value in Three Moves
 - [x] 1524 Number of Sub-arrays With Odd Sum
+- [x] 1535 Find the Winner of an Array Game
 
 
 
