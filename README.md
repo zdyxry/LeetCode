@@ -618,6 +618,7 @@
 - [x] 1400 Construct K Palindrome Strings
 - [x] 1405 Longest Happy String
 - [x] 1414 Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+- [x] 1536 Minimum Swaps to Arrange a Binary Grid
 
 
 ## Trie
