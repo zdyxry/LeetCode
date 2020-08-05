@@ -341,6 +341,11 @@
 - [x] 1171 Remove Zero Sum Consecutive Nodes from Linked List
 - [x] 1367 Linked List in Binary Tree
 
+### Hard
+- [x] 0025 Reverse Nodes in k-Group
+
+
+
 ## Stack
 
 ### Easy
