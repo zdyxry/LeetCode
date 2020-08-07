@@ -6,32 +6,37 @@ class ListNode:
 
 
 class Solution:
-    def reverse(self, head: ListNode, tail: ListNode):
-        prev = tail.next
-        p = head
-        while prev != tail:
-            nex = p.next
-            p.next = prev
-            prev = p
-            p = nex
-        return tail, head
+    def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
+        curr = head
+        for _ in range(k):
+            if not curr: return head
+            curr = curr.next
+
+        prev = None
+        curr = head
+        for _ in range(k):
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
+
+        head.next = self.reverseKGroup(curr, k)
+        return prev
 
 
-    def reverseKGroup(self, head:ListNode, k: int) -> ListNode:
-        hair = ListNode(0)
-        hair.next = head
-        pre = hair
+head = ListNode(0)
+cur = head
+for i in range(1,5):
+    head.next = ListNode(i)
+    head = head.next
 
-        while head:
-            tail = pre
-            for i in range(k):
-                tail = tail.next
-                if not tail:
-                    return hair.next
-            nex = tail.next
-            head, tail = self.reverse(head, tail)
-            pre.next = head
-            tail.next = nex
-            pre = tail
-            head = tail.next
-        return hair.next
+head = cur
+while head:
+    print(head.val)
+    head = head.next
+print("###################")
+res = Solution().reverseKGroup(cur, 3)
+head = res
+while head:
+    print(head.val)
+    head = head.next
