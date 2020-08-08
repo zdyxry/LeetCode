@@ -342,6 +342,7 @@
 - [x] 1367 Linked List in Binary Tree
 
 ### Hard
+- [x] 0023 Merge k Sorted Lists
 - [x] 0025 Reverse Nodes in k-Group
 
 
