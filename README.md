@@ -306,7 +306,7 @@
 - [x] 1461 Check If a String Contains All Binary Codes of Size K
 - [x] 1525 Number of Good Ways to Split a String
 - [x] 1529 Bulb Switcher IV
-
+- [x] 1545 Find Kth Bit in Nth Binary String
 
 
 
