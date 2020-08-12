@@ -381,6 +381,7 @@
 - [x] 0946 Validate Stack Sequences
 - [x] 1190 Reverse Substrings Between Each Pair of Parentheses
 - [x] 1209 Remove All Adjacent Duplicates in String II
+- [x] 1541 Minimum Insertions to Balance a Parentheses String
 
 
 ## Heap
