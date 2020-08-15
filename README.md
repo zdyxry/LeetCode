@@ -339,6 +339,7 @@
 - [x] 0143 Reorder List
 - [x] 0147 Insertion Sort List
 - [x] 0148 Sort List
+- [x] 0328 Odd Even Linked List
 - [x] 0445 Add Two Numbers II
 - [x] 1171 Remove Zero Sum Consecutive Nodes from Linked List
 - [x] 1367 Linked List in Binary Tree
