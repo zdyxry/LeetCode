@@ -440,6 +440,8 @@
 - [x] 0938 Range Sum of BST
 - [x] 0965 Univalued Binary Tree
 - [x] 0993 Cousins in Binary Tree
+- [x] 1022 Sum of Root To Leaf Binary Numbers
+
 
 ### Medium
 
