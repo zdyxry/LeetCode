@@ -111,6 +111,7 @@
 - [x] 1512 Number of Good Pairs
 - [x] 1534 Count Good Triplets
 - [x] 1539 Kth Missing Positive Number
+- [x] 1550 Three Consecutive Odds
 
 
 
