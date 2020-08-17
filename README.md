@@ -533,6 +533,7 @@
 - [x] 1447 Simplified Fractions
 - [x] 1492 The kth Factor of n
 - [x] 1513 Number of Substrings With Only 1s
+- [x] 1551 Minimum Operations to Make Array Equal
 
 
 
