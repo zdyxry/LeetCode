@@ -269,6 +269,8 @@
 - [x] 1446 Consecutive Characters
 - [x] 1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence
 - [x] 1496 Path Crossing
+- [x] 1556 Thousand Separator
+
 
 
 ### Medium
