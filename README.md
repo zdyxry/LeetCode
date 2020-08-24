@@ -671,3 +671,10 @@
 ### Easy
 
 - [x] 1114 Print in Order
+
+
+## Graph
+
+### Medium
+
+- [x] 1557 Minimum Number of Vertices to Reach All Nodes
