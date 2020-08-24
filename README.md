@@ -112,7 +112,7 @@
 - [x] 1534 Count Good Triplets
 - [x] 1539 Kth Missing Positive Number
 - [x] 1550 Three Consecutive Odds
-
+- [x] 1560 Most Visited Sector in a Circular Track
 
 
 ### Medium
