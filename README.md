@@ -644,6 +644,7 @@
 - [x] 1405 Longest Happy String
 - [x] 1414 Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
 - [x] 1536 Minimum Swaps to Arrange a Binary Grid
+- [x] 1558 Minimum Numbers of Function Calls to Make Target Array
 
 
 ## Trie
