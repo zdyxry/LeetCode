@@ -509,6 +509,7 @@
 - [x] 1452 People Whose List of Favorite Companies Is Not a Subset of Another List
 - [x] 1481 Least Number of Unique Integers after K Removals
 - [x] 1498 Number of Subsequences That Satisfy the Given Sum Condition
+- [x] 1561 Maximum Number of Coins You Can Get
 
 
 ## Math
