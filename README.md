@@ -555,6 +555,7 @@
 - [x] 0060 Permutation Sequence
 - [x] 0077 Combinations
 - [x] 0131 Palindrome Partitioning
+- [x] 1079. Letter Tile Possibilities
 - [x] 1415 The k-th Lexicographical String of All Happy Strings of Length n
 
 
