@@ -89,6 +89,7 @@
 - [x] 1217 Play with Chips
 - [x] 1260 Shift 2D Grid
 - [x] 1266 Minimum Time Visiting All Points
+- [x] 1275 Find Winner on a Tic Tac Toe Game
 - [x] 1287 Element Appearing More Than 25% In Sorted Array
 - [x] 1304 Find N Unique Integers Sum up to Zero
 - [x] 1365 How Many Numbers Are Smaller Than the Current Number
