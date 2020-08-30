@@ -114,6 +114,7 @@
 - [x] 1539 Kth Missing Positive Number
 - [x] 1550 Three Consecutive Odds
 - [x] 1560 Most Visited Sector in a Circular Track
+- [x] 1566 Detect Pattern of Length M Repeated K or More Times
 
 
 ### Medium
