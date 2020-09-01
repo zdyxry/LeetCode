@@ -684,4 +684,5 @@
 
 ### Medium
 
+- [x] 1161 Maximum Level Sum of a Binary Tree
 - [x] 1557 Minimum Number of Vertices to Reach All Nodes
