@@ -115,6 +115,7 @@
 - [x] 1550 Three Consecutive Odds
 - [x] 1560 Most Visited Sector in a Circular Track
 - [x] 1566 Detect Pattern of Length M Repeated K or More Times
+- [x] 1572 Matrix Diagonal Sum
 
 
 ### Medium
