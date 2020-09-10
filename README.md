@@ -87,6 +87,7 @@
 - [x] 1185 Day of the Week
 - [x] 1200 Minimum Absolute Difference
 - [x] 1217 Play with Chips
+- [x] 1252 Cells with Odd Values in a Matrix
 - [x] 1260 Shift 2D Grid
 - [x] 1266 Minimum Time Visiting All Points
 - [x] 1275 Find Winner on a Tic Tac Toe Game
