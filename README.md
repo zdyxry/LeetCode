@@ -117,6 +117,7 @@
 - [x] 1560 Most Visited Sector in a Circular Track
 - [x] 1566 Detect Pattern of Length M Repeated K or More Times
 - [x] 1572 Matrix Diagonal Sum
+- [x] 1582 Special Positions in a Binary Matrix
 
 
 ### Medium
