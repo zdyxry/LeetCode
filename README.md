@@ -186,6 +186,7 @@
 - [x] 1509 Minimum Difference Between Largest and Smallest Value in Three Moves
 - [x] 1524 Number of Sub-arrays With Odd Sum
 - [x] 1535 Find the Winner of an Array Game
+- [x] 1583 Count Unhappy Friends
 
 
 
