@@ -577,6 +577,7 @@
 - [x] 1079. Letter Tile Possibilities
 - [x] 1219 Path with Maximum Gold
 - [x] 1415 The k-th Lexicographical String of All Happy Strings of Length n
+- [x] 1593 Split a String Into the Max Number of Unique Substrings
 
 
 ## Dynamic Programming
