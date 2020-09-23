@@ -478,6 +478,7 @@
 - [x] 0236 Lowest Common Ancestor of a Binary Tree
 - [x] 0654 Maximum Binary Tree
 - [x] 0701 Insert into a Binary Search Tree
+- [x] 0814 Binary Tree Pruning
 - [x] 1038 Binary Search Tree to Greater Sum Tree
 - [x] 1302 Deepest Leaves Sum
 - [x] 1305 All Elements in Two Binary Search Trees
