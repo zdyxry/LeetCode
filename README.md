@@ -260,6 +260,7 @@
 - [x] 0459 Repeated Substring Pattern
 - [x] 0520 Detect Capital
 - [x] 0557 Reverse Words in a String III
+- [x] 0657 Robot Return to Origin
 - [x] 0680 Valid Palindrome II
 - [x] 0696 Count Binary Substrings
 - [x] 0709. To Lower Case
