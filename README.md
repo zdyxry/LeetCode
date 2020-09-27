@@ -382,6 +382,8 @@
 - [x] 1047 Remove All Adjacent Duplicates In String
 - [x] 1441 Build an Array With Stack Operations
 - [x] 1544 Make The String Great
+- [x] 1598 Crawler Log Folder
+
 
 
 ### Medium
