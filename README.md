@@ -75,6 +75,7 @@
 - [x] 0746 Min Cost Climbing Stairs
 - [x] 0766 Toeplitz Matrix
 - [x] 0830 Positions of Large Groups
+- [x] 0832 Flipping an Image
 - [x] 0849 Maximize Distance to Closest Person
 - [x] 0888 Fair Candy Swap
 - [x] 0896 Monotonic Array
