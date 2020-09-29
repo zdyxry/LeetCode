@@ -206,7 +206,8 @@
 - [x] 0409 Longest Palindrome
 - [x] 0438 Find All Anagrams in a String
 - [x] 0463 Island Perimeter
-- [ ] 0500 Keyboard Row
+- [x] 0500 Keyboard Row
+- [x] 0506 Relative Ranks
 - [x] 0575 Distribute Candies
 - [x] 0594 Longest Harmonious Subsequence
 - [x] 0599 Minimum Index Sum of Two Lists
