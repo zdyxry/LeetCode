@@ -492,6 +492,8 @@
 - [x] 1372 Longest ZigZag Path in a Binary Tree
 - [x] 1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 - [x] 1382 Balance a Binary Search Tree
+- [x] 1600 Throne Inheritance
+
 
 ## Binary Search
 
