@@ -548,6 +548,7 @@
 - [x] 0172 Factorial Trailing Zeroes
 - [x] 0263 Ugly Number
 - [x] 0441 Arranging Coins
+- [x] 0492 Construct the Rectangle
 - [x] 0504 Base 7
 - [x] 0728 Self Dividing Numbers
 - [x] 1025 Divisor Game
