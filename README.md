@@ -644,6 +644,11 @@
 
 ## Design
 
+### Easy
+
+- [x] 1603 Design Parking System
+
+
 ### Medium
 
 - [x] 1348 Tweet Counts Per Frequency
