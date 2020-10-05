@@ -689,6 +689,8 @@
 - [x] 1558 Minimum Numbers of Function Calls to Make Target Array
 - [x] 1567 Maximum Length of Subarray With Positive Product
 - [x] 1578 Minimum Deletion Cost to Avoid Repeating Letters
+- [x] 1605 Find Valid Matrix Given Row and Column Sums
+
 
 
 ## Trie
