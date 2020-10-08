@@ -480,6 +480,7 @@
 - [x] 0116 Populating Next Right Pointers in Each Node
 - [x] 0117 Populating Next Right Pointers in Each Node II
 - [x] 0129 Sum Root to Leaf Numbers
+- [x] 0173 Binary Search Tree Iterator
 - [x] 0199 Binary Tree Right Side View
 - [x] 0230 Kth Smallest Element in a BST
 - [x] 0236 Lowest Common Ancestor of a Binary Tree
