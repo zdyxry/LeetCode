@@ -492,6 +492,7 @@
 - [x] 1038 Binary Search Tree to Greater Sum Tree
 - [x] 1302 Deepest Leaves Sum
 - [x] 1305 All Elements in Two Binary Search Trees
+- [x] 1325 Delete Leaves With a Given Value
 - [x] 1372 Longest ZigZag Path in a Binary Tree
 - [x] 1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 - [x] 1382 Balance a Binary Search Tree
