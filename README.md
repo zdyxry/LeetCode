@@ -34,6 +34,12 @@
 - [x] 1310 XOR Queries of a Subarray
 - [x] 1442 Count Triplets That Can Form Two Arrays of Equal XOR
 
+
+### Hard
+
+- [ ] 1611 Minimum One Bit Operations to Make Integers Zero
+
+
 ## Array
 
 ### Easy
