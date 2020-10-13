@@ -90,6 +90,7 @@
 - [x] 0941 Valid Mountain Array
 - [x] 0977 Squares of a Sorted Array
 - [x] 0989 Add to Array-Form of Integer
+- [x] 1018 Binary Prefix Divisible By 5
 - [x] 1089 Duplicate Zeros
 - [x] 1185 Day of the Week
 - [x] 1200 Minimum Absolute Difference
