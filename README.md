@@ -578,6 +578,7 @@
 - [x] 0029 Divide Two Integers
 - [x] 0050 Pow(x, n)
 - [x] 0343 Integer Break
+- [x] 0462 Minimum Moves to Equal Array Elements II
 - [x] 0754 Reach a Number
 - [x] 1227 Airplane Seat Assignment Probability
 - [x] 1344 Angle Between Hands of a Clock
