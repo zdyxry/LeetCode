@@ -597,6 +597,7 @@
 
 ### Medium
 
+- [x] 0089 Gray Code
 - [x] 0046 Permutations
 - [x] 0047 Permutations II
 - [x] 0060 Permutation Sequence
