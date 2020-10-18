@@ -296,6 +296,7 @@
 - [x] 1576 Replace All ?'s to Avoid Consecutive Repeating Characters
 - [x] 1592 Rearrange Spaces Between Words
 - [x] 1614 Maximum Nesting Depth of the Parentheses
+- [x] 1624 Largest Substring Between Two Equal Characters
 
 
 
