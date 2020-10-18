@@ -128,6 +128,7 @@
 - [x] 1582 Special Positions in a Binary Matrix
 - [x] 1588 Sum of All Odd Length Subarrays
 - [x] 1608 Special Array With X Elements Greater Than or Equal X
+- [x] 1619 Mean of Array After Removing Some Elements
 
 
 ### Medium
