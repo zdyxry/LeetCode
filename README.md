@@ -170,6 +170,7 @@
 - [x] 0287 Find the Duplicate Number
 - [x] 0442 Find All Duplicates in an Array
 - [x] 0498 Diagonal Traverse
+- [x] 0565 Array Nesting
 - [x] 0807 Max Increase to Keep City Skyline
 - [x] 0926 Flip String to Monotone Increasing
 - [x] 0950 Reveal Cards In Increasing Order
