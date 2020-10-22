@@ -278,6 +278,7 @@
 - [x] 0709. To Lower Case
 - [x] 0796 Rotate String
 - [x] 0804 Unique Morse Code Words
+- [x] 0821 Shortest Distance to a Character
 - [x] 0859 Buddy Strings
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
