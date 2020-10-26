@@ -129,6 +129,8 @@
 - [x] 1588 Sum of All Odd Length Subarrays
 - [x] 1608 Special Array With X Elements Greater Than or Equal X
 - [x] 1619 Mean of Array After Removing Some Elements
+- [x] 1629 Slowest Key
+
 
 
 ### Medium
