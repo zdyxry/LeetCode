@@ -575,6 +575,7 @@
 - [x] 0492 Construct the Rectangle
 - [x] 0504 Base 7
 - [x] 0728 Self Dividing Numbers
+- [x] 0908 Smallest Range I
 - [x] 0942 DI String Match
 - [x] 1025 Divisor Game
 - [x] 1154 Day of the Year
