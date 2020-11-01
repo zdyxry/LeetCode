@@ -549,6 +549,7 @@
 - [x] 1030 Matrix Cells in Distance Order
 - [x] 1122 Relative Sort Array
 - [x] 1528 Shuffle String
+- [x] 1636 Sort Array by Increasing Frequency
 
 
 ### Medium
