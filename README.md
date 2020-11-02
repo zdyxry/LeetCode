@@ -563,6 +563,7 @@
 - [x] 1498 Number of Subsequences That Satisfy the Given Sum Condition
 - [x] 1561 Maximum Number of Coins You Can Get
 - [x] 1630 Arithmetic Subarrays
+- [x] 1637 Widest Vertical Area Between Two Points Containing No Points
 
 
 
