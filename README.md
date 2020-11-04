@@ -427,6 +427,8 @@
 - [x] 1209 Remove All Adjacent Duplicates in String II
 - [x] 1249 Minimum Remove to Make Valid Parentheses
 - [x] 1541 Minimum Insertions to Balance a Parentheses String
+- [x] 1642 Furthest Building You Can Reach
+
 
 
 ## Heap
