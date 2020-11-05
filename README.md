@@ -102,6 +102,7 @@
 - [x] 1275 Find Winner on a Tic Tac Toe Game
 - [x] 1287 Element Appearing More Than 25% In Sorted Array
 - [x] 1304 Find N Unique Integers Sum up to Zero
+- [x] 1313 Decompress Run-Length Encoded List
 - [x] 1365 How Many Numbers Are Smaller Than the Current Number
 - [x] 1380 Lucky Numbers in a Matrix
 - [x] 1385 Find the Distance Value Between Two Arrays
