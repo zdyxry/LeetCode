@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+import operator
+from functools import reduce
+
 
 class Solution:
     def singleNumber(self, nums):
