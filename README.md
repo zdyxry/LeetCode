@@ -653,6 +653,8 @@
 - [x] 1155 Number of Dice Rolls With Target Sum
 - [x] 1262 Greatest Sum Divisible by Three
 - [x] 1546 Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
+- [x] 1641 Count Sorted Vowel Strings
+
 
 
 ## Depth-First Search
