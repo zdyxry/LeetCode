@@ -736,6 +736,8 @@
 - [x] 1567 Maximum Length of Subarray With Positive Product
 - [x] 1578 Minimum Deletion Cost to Avoid Repeating Letters
 - [x] 1605 Find Valid Matrix Given Row and Column Sums
+- [x] 1647 Minimum Deletions to Make Character Frequencies Unique
+
 
 
 
