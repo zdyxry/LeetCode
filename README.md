@@ -324,6 +324,7 @@
 - [x] 0227 Basic Calculator II
 - [x] 0539 Minimum Time Difference
 - [x] 0583 Delete Operation for Two Strings
+- [x] 0609 Find Duplicate File in System
 - [x] 0647 Palindromic Substrings
 - [x] 0678 Valid Parenthesis String
 - [x] 0767 Reorganize String
