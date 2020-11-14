@@ -256,6 +256,7 @@
 - [x] 0692 Top K Frequent Words
 - [x] 0718 Maximum Length of Repeated Subarray
 - [x] 0739 Daily Temperatures
+- [x] 0781 Rabbits in Forest
 - [x] 0930 Binary Subarrays With Sum
 - [x] 0939 Minimum Area Rectangle
 - [x] 0954 Array of Doubled Pairs
