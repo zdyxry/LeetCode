@@ -135,6 +135,8 @@
 - [x] 1640 Check Array Formation Through Concatenation
 - [x] 1646 Get Maximum in Generated Array
 - [x] 1652 Defuse the Bomb
+- [x] 1656 Design an Ordered Stream
+
 
 
 
