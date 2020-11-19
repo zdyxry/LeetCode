@@ -290,6 +290,7 @@
 - [x] 0680 Valid Palindrome II
 - [x] 0696 Count Binary Substrings
 - [x] 0709. To Lower Case
+- [x] 0788 Rotated Digits
 - [x] 0796 Rotate String
 - [x] 0804 Unique Morse Code Words
 - [x] 0821 Shortest Distance to a Character
