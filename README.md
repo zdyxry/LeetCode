@@ -482,6 +482,7 @@
 - [x] 0538 Convert BST to Greater Tree
 - [x] 0543 Diameter of Binary Tree
 - [x] 0559 Maximum Depth of N-ary Tree
+- [x] 0563 Binary Tree Tilt
 - [x] 0572 Subtree of Another Tree
 - [x] 0589 N-ary Tree Preorder Traversal
 - [x] 0590 N-ary Tree Postorder Traversal
