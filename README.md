@@ -750,6 +750,8 @@
 - [x] 1647 Minimum Deletions to Make Character Frequencies Unique
 - [x] 1653 Minimum Deletions to Make String Balanced
 - [x] 1657 Determine if Two Strings Are Close
+- [x] 1663 Smallest String With A Given Numeric Value
+
 
 
 
