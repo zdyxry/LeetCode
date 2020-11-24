@@ -264,6 +264,7 @@
 - [x] 0939 Minimum Area Rectangle
 - [x] 0954 Array of Doubled Pairs
 - [x] 0974 Subarray Sums Divisible by K
+- [x] 1090 Largest Values From Labels
 - [x] 1418 Display Table of Food Orders in a Restaurant
 - [x] 1487 Making File Names Unique
 - [x] 1638 Count Substrings That Differ by One Character
