@@ -287,6 +287,7 @@
 - [x] 0443 String Compression
 - [x] 0459 Repeated Substring Pattern
 - [x] 0520 Detect Capital
+- [x] 0551 Student Attendance Record I
 - [x] 0557 Reverse Words in a String III
 - [x] 0657 Robot Return to Origin
 - [x] 0680 Valid Palindrome II
