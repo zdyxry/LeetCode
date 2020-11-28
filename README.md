@@ -318,6 +318,8 @@
 - [x] 1614 Maximum Nesting Depth of the Parentheses
 - [x] 1624 Largest Substring Between Two Equal Characters
 - [x] 1662 Check If Two String Arrays are Equivalent
+- [x] 1668 Maximum Repeating Substring
+
 
 
 
