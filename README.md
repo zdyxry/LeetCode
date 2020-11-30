@@ -724,6 +724,8 @@
 - [x] 1381 Design a Stack With Increment Operation
 - [x] 1396 Design Underground System
 - [x] 1472 Design Browser History
+- [x] 1670 Design Front Middle Back Queue
+
 
 
 
