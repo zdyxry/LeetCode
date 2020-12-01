@@ -136,6 +136,8 @@
 - [x] 1646 Get Maximum in Generated Array
 - [x] 1652 Defuse the Bomb
 - [x] 1656 Design an Ordered Stream
+- [x] 1672 Richest Customer Wealth
+
 
 
 
