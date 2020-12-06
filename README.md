@@ -322,6 +322,8 @@
 - [x] 1624 Largest Substring Between Two Equal Characters
 - [x] 1662 Check If Two String Arrays are Equivalent
 - [x] 1668 Maximum Repeating Substring
+- [x] 1678 Goal Parser Interpretation
+
 
 
 
