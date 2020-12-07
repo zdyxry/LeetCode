@@ -271,6 +271,8 @@
 - [x] 1418 Display Table of Food Orders in a Restaurant
 - [x] 1487 Making File Names Unique
 - [x] 1638 Count Substrings That Differ by One Character
+- [x] 1679 Max Number of K-Sum Pairs
+
 
 
 
