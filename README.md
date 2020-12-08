@@ -450,6 +450,7 @@
 - [x] 0907 Sum of Subarray Minimums
 - [x] 0921 Minimum Add to Make Parentheses Valid
 - [x] 0946 Validate Stack Sequences
+- [x] 1130 Minimum Cost Tree From Leaf Values
 - [x] 1190 Reverse Substrings Between Each Pair of Parentheses
 - [x] 1209 Remove All Adjacent Duplicates in String II
 - [x] 1249 Minimum Remove to Make Valid Parentheses
