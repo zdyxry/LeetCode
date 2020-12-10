@@ -601,7 +601,6 @@
 
 
 
-## Math
 
 ### Easy
 
@@ -616,6 +615,7 @@
 - [x] 0728 Self Dividing Numbers
 - [x] 0908 Smallest Range I
 - [x] 0942 DI String Match
+- [x] 1009 Complement of Base 10 Integer
 - [x] 1025 Divisor Game
 - [x] 1154 Day of the Year
 - [x] 1232 Check If It Is a Straight Line
