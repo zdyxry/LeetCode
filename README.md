@@ -601,6 +601,7 @@
 
 
 
+## Math
 
 ### Easy
 
@@ -613,6 +614,7 @@
 - [x] 0492 Construct the Rectangle
 - [x] 0504 Base 7
 - [x] 0728 Self Dividing Numbers
+- [x] 0883 Projection Area of 3D Shapes
 - [x] 0908 Smallest Range I
 - [x] 0942 DI String Match
 - [x] 1009 Complement of Base 10 Integer
