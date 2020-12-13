@@ -699,6 +699,7 @@
 ### Medium
 
 - [x] 0200 Number of Islands
+- [x] 0695 Max Area of Island
 - [x] 0797 All Paths From Source to Target
 - [x] 1110 Delete Nodes And Return Forest
 - [x] 1145 Binary Tree Coloring Game
