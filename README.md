@@ -326,6 +326,8 @@
 - [x] 1662 Check If Two String Arrays are Equivalent
 - [x] 1668 Maximum Repeating Substring
 - [x] 1678 Goal Parser Interpretation
+- [x] 1684 Count the Number of Consistent Strings
+
 
 
 
