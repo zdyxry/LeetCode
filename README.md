@@ -649,6 +649,11 @@
 
 ## Backtracking
 
+### Easy
+
+- [x] 1688 Count of Matches in Tournament
+
+
 ### Medium
 
 - [x] 0089 Gray Code
