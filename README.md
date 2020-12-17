@@ -291,6 +291,7 @@
 - [x] 0434 Number of Segments in a String
 - [x] 0443 String Compression
 - [x] 0459 Repeated Substring Pattern
+- [x] 0482 License Key Formatting
 - [x] 0520 Detect Capital
 - [x] 0551 Student Attendance Record I
 - [x] 0557 Reverse Words in a String III
