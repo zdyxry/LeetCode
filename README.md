@@ -563,6 +563,8 @@
 - [x] 0367 Valid Perfect Square
 - [x] 0392 Is Subsequence
 - [x] 0704 Binary Search
+- [x] 0852 Peak Index in a Mountain Array
+
 
 
 ### Medium
