@@ -328,6 +328,7 @@
 - [x] 1668 Maximum Repeating Substring
 - [x] 1678 Goal Parser Interpretation
 - [x] 1684 Count the Number of Consistent Strings
+- [x] 1694 Reformat Phone Number
 
 
 
