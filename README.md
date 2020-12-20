@@ -771,6 +771,7 @@
 
 - [x] 0406 Queue Reconstruction by Height
 - [x] 0763 Partition Labels
+- [x] 0861 Score After Flipping Matrix
 - [x] 1094 Car Pooling
 - [x] 1282 Group the People Given the Group Size They Belong To
 - [x] 1353 Maximum Number of Events That Can Be Attended
