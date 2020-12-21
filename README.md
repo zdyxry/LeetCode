@@ -836,3 +836,9 @@
 ### Medium
 
 - [x] 1288 Remove Covered Intervals
+
+## Two Pointers
+
+### Medium
+
+- [x] 1695 Maximum Erasure Value
