@@ -182,6 +182,7 @@
 - [x] 0238 Product of Array Except Self
 - [x] 0287 Find the Duplicate Number
 - [x] 0442 Find All Duplicates in an Array
+- [x] 0495 Teemo Attacking
 - [x] 0498 Diagonal Traverse
 - [x] 0565 Array Nesting
 - [x] 0769 Max Chunks To Make Sorted
