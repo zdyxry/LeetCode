@@ -541,6 +541,7 @@
 - [x] 0654 Maximum Binary Tree
 - [x] 0701 Insert into a Binary Search Tree
 - [x] 0814 Binary Tree Pruning
+- [x] 0894 All Possible Full Binary Trees
 - [x] 1008 Construct Binary Search Tree from Preorder Traversal
 - [x] 1104 Path In Zigzag Labelled Binary Tree
 - [x] 1038 Binary Search Tree to Greater Sum Tree
