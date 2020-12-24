@@ -308,6 +308,7 @@
 - [x] 0917 Reverse Only Letters
 - [x] 0925 Long Pressed Name
 - [x] 0929 Unique Email Addresses
+- [x] 0937 Reorder Data in Log Files
 - [x] 1108 Defanging an IP Address
 - [x] 1189 Maximum Number of Balloons
 - [x] 1309 Decrypt String from Alphabet to Integer Mapping
