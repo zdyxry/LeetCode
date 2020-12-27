@@ -137,6 +137,7 @@
 - [x] 1652 Defuse the Bomb
 - [x] 1656 Design an Ordered Stream
 - [x] 1672 Richest Customer Wealth
+- [x] 1700 Number of Students Unable to Eat Lunch
 
 
 
