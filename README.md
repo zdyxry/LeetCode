@@ -332,6 +332,7 @@
 - [x] 1678 Goal Parser Interpretation
 - [x] 1684 Count the Number of Consistent Strings
 - [x] 1694 Reformat Phone Number
+- [x] 1704 Determine if String Halves Are Alike
 
 
 
