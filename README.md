@@ -216,6 +216,8 @@
 - [x] 1524 Number of Sub-arrays With Odd Sum
 - [x] 1535 Find the Winner of an Array Game
 - [x] 1583 Count Unhappy Friends
+- [x] 1701 Average Waiting Time
+
 
 
 
