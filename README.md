@@ -799,6 +799,7 @@
 - [x] 1657 Determine if Two Strings Are Close
 - [x] 1663 Smallest String With A Given Numeric Value
 - [x] 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers
+- [x] 1702 Maximum Binary String After Change
 
 
 
