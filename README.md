@@ -639,6 +639,8 @@
 - [x] 1232 Check If It Is a Straight Line
 - [x] 1317 Convert Integer to the Sum of Two No-Zero Integers
 - [x] 1523 Count Odd Numbers in an Interval Range
+- [x] 1716 Calculate Money in Leetcode Bank
+
 
 ### Medium
 
