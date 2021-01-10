@@ -600,6 +600,8 @@
 - [x] 1122 Relative Sort Array
 - [x] 1528 Shuffle String
 - [x] 1636 Sort Array by Increasing Frequency
+- [x] 1710 Maximum Units on a Truck
+
 
 
 ### Medium
