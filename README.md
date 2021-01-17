@@ -781,6 +781,7 @@
 - [x] 1221 Split a String in Balanced Strings
 - [x] 1403 Minimum Subsequence in Non-Increasing Order
 - [x] 1518 Water Bottles
+- [x] 1725 Number Of Rectangles That Can Form The Largest Square
 
 
 
