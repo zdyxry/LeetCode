@@ -337,6 +337,7 @@
 - [x] 1684 Count the Number of Consistent Strings
 - [x] 1694 Reformat Phone Number
 - [x] 1704 Determine if String Halves Are Alike
+- [x] 1736 Latest Time by Replacing Hidden Digits
 
 
 
