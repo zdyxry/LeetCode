@@ -141,6 +141,7 @@
 - [x] 1700 Number of Students Unable to Eat Lunch
 - [x] 1732 Find the Highest Altitude
 - [x] 1742 Maximum Number of Balls in a Box
+- [x] 1748 Sum of Unique Elements
 
 
 
