@@ -815,6 +815,7 @@
 - [x] 1663 Smallest String With A Given Numeric Value
 - [x] 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers
 - [x] 1702 Maximum Binary String After Change
+- [x] 1743 Restore the Array From Adjacent Pairs
 
 
 
