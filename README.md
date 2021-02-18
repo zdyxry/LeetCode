@@ -812,6 +812,7 @@
 - [x] 1689 Partitioning Into Minimum Number Of Deci-Binary Numbers
 - [x] 1702 Maximum Binary String After Change
 - [x] 1743 Restore the Array From Adjacent Pairs
+- [x] 1753 Maximum Score From Removing Stones
 
 
 
