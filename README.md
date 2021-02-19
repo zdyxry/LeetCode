@@ -471,6 +471,7 @@
 - [x] 1249 Minimum Remove to Make Valid Parentheses
 - [x] 1541 Minimum Insertions to Balance a Parentheses String
 - [x] 1642 Furthest Building You Can Reach
+- [x] 1673 Find the Most Competitive Subsequence
 
 
 
