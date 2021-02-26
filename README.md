@@ -191,6 +191,7 @@
 - [x] 0807 Max Increase to Keep City Skyline
 - [x] 0926 Flip String to Monotone Increasing
 - [x] 0950 Reveal Cards In Increasing Order
+- [x] 1052 Grumpy Bookstore Owner
 - [x] 1222 Queens That Can Attack the King
 - [x] 1233 Remove Sub-Folders from the Filesystem
 - [x] 1300 Sum of Mutated Array Closest to Target
