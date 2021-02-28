@@ -341,6 +341,7 @@
 - [x] 1736 Latest Time by Replacing Hidden Digits
 - [x] 1763 Longest Nice Substring
 - [x] 1768 Merge Strings Alternately
+- [x] 1773 Count Items Matching a Rule
 
 
 
