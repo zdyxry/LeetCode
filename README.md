@@ -817,6 +817,7 @@
 - [x] 1743 Restore the Array From Adjacent Pairs
 - [x] 1749 Maximum Absolute Sum of Any Subarray
 - [x] 1753 Maximum Score From Removing Stones
+- [x] 1764 Form Array by Concatenating Subarrays of Another Array
 - [x] 1774 Closest Dessert Cost
 
 
