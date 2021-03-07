@@ -144,6 +144,7 @@
 - [x] 1748 Sum of Unique Elements
 - [x] 1752 Check if Array Is Sorted and Rotated
 - [x] 1758 Minimum Changes To Make Alternating Binary String
+- [x] 1779 Find Nearest Point That Has the Same X or Y Coordinate
 
 
 ### Medium
