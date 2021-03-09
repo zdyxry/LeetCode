@@ -789,6 +789,7 @@
 - [x] 1403 Minimum Subsequence in Non-Increasing Order
 - [x] 1518 Water Bottles
 - [x] 1725 Number Of Rectangles That Can Form The Largest Square
+- [x] 1784 Check if Binary String Has at Most One Segment of Ones
 
 
 
