@@ -344,6 +344,7 @@
 - [x] 1768 Merge Strings Alternately
 - [x] 1773 Count Items Matching a Rule
 - [x] 1790 Check if One String Swap Can Make Strings Equal
+- [x] 1796 Second Largest Digit in a String
 
 
 
