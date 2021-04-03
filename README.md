@@ -868,6 +868,11 @@
 
 ## Two Pointers
 
+### Easy
+
+- [x] 1800 Maximum Ascending Subarray Sum
+
+
 ### Medium
 
 - [x] 1695 Maximum Erasure Value
