@@ -651,6 +651,8 @@
 - [x] 1317 Convert Integer to the Sum of Two No-Zero Integers
 - [x] 1523 Count Odd Numbers in an Interval Range
 - [x] 1716 Calculate Money in Leetcode Bank
+- [x] 1822 Sign of the Product of an Array
+
 
 
 ### Medium
