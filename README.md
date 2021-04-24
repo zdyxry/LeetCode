@@ -348,6 +348,7 @@
 - [x] 1796 Second Largest Digit in a String
 - [x] 1805 Number of Different Integers in a String
 - [x] 1816 Truncate Sentence
+- [x] 1832 Check if the Sentence Is Pangram
 
 
 
