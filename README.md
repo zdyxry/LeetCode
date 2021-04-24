@@ -145,6 +145,7 @@
 - [x] 1752 Check if Array Is Sorted and Rotated
 - [x] 1758 Minimum Changes To Make Alternating Binary String
 - [x] 1779 Find Nearest Point That Has the Same X or Y Coordinate
+- [x] 1827 Minimum Operations to Make the Array Increasing
 
 
 ### Medium
