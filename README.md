@@ -393,6 +393,7 @@
 - [x] 1529 Bulb Switcher IV
 - [x] 1540 Can Convert String in K Moves
 - [x] 1545 Find Kth Bit in Nth Binary String
+- [x] 1839 Longest Substring Of All Vowels in Order
 
 
 
