@@ -8,7 +8,7 @@ class Solution(object):
             nums.reverse()
             return
         k = i - 1
-        print i,j,k
+        print(i,j,k)
         while nums[j] <= nums[k]:
             j -= 1
         nums[k], nums[j] = nums[j], nums[k]
@@ -18,6 +18,6 @@ class Solution(object):
             l += 1
             r -= 1
 
-nums = [1,8,5,7,6,5,4]
+nums = [1,2,7,4,3,1]
 Solution().nextPermutation(nums)
 print(nums)
