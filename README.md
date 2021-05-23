@@ -148,6 +148,7 @@
 - [x] 1827 Minimum Operations to Make the Array Increasing
 - [x] 1848 Minimum Distance to the Target Element
 - [x] 1854 Maximum Population Year
+- [x] 1869 Longer Contiguous Segments of Ones than Zeros
 
 
 
