@@ -1,10 +1,10 @@
-package main 
+package main
 
 import "fmt"
 
 func nextPermutation(a []int) {
 	left := len(a) - 2
-	for 0 <= left && a[left] >= a[left + 1] {
+	for 0 <= left && a[left] >= a[left+1] {
 		left--
 	}
 
@@ -15,7 +15,7 @@ func nextPermutation(a []int) {
 	}
 
 	right := search(a, left+1, a[left])
-	a[left], a[right] = a[right],a[left]
+	a[left], a[right] = a[right], a[left]
 }
 
 func reverse(a []int, l int) {
@@ -31,7 +31,7 @@ func search(a []int, l, target int) int {
 	r := len(a) - 1
 	l--
 	for l+1 < r {
-		mid := (l+r) / 2
+		mid := (l + r) / 2
 		if target < a[mid] {
 			r = mid
 		} else {
@@ -42,7 +42,7 @@ func search(a []int, l, target int) int {
 }
 
 func main() {
-	a := []int{1,2,3}
+	a := []int{1, 2, 3}
 	nextPermutation(a)
 	fmt.Println(a)
 }

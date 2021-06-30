@@ -354,6 +354,7 @@
 - [x] 1816 Truncate Sentence
 - [x] 1832 Check if the Sentence Is Pangram
 - [x] 1844 Replace All Digits with Characters
+- [x] 1876 Substrings of Size Three with Distinct Characters
 
 
 
