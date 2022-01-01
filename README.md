@@ -355,6 +355,7 @@
 - [x] 1832 Check if the Sentence Is Pangram
 - [x] 1844 Replace All Digits with Characters
 - [x] 1876 Substrings of Size Three with Distinct Characters
+- [x] 1897 Redistribute Characters to Make All Strings Equal
 
 
 
