@@ -1,12 +1,12 @@
 package main
 
 func makeFancyString(s string) string {
-	res := []string{}
+	res := []rune{}
 	for _, c := range s {
-		if len(res) >= 2 && res[len(res)-1] == string(c) && res[len(res)-2] == string(c) {
+		if len(res) >= 2 && res[len(res)-1] == c && res[len(res)-2] == c {
 			continue
 		}
-		res = append(res, string(c))
+		res = append(res, c)
 	}
-	return strings.Join(res, "")
+	return string(res)
 }
