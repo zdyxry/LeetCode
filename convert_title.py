@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "1945. Sum of Digits of String After Convert"
+a = "1961. Check If String Is a Prefix of Array"
 print(a.replace('.', '').replace(' ', '_').lower())
