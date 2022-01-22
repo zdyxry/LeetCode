@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "1961. Check If String Is a Prefix of Array"
+a = "1967. Number of Strings That Appear as Substrings in Word"
 print(a.replace('.', '').replace(' ', '_').lower())
