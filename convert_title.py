@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "2120. Execution of All Suffix Instructions Staying in a Grid"
+a = "1971. Find if Path Exists in Graph"
 
 print(a.replace('.', '').replace(' ', '_').lower())
