@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "1979. Find Greatest Common Divisor of Array"
+a = "1984. Minimum Difference Between Highest and Lowest of K Scores"
 
 print(a.replace('.', '').replace(' ', '_').lower())
