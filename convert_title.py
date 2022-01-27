@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "1984. Minimum Difference Between Highest and Lowest of K Scores"
+a = "1991. Find the Middle Index in Array"
 
 print(a.replace('.', '').replace(' ', '_').lower())
