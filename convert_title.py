@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "1991. Find the Middle Index in Array"
+a = "1995. Count Special Quadruplets"
 
 print(a.replace('.', '').replace(' ', '_').lower())
