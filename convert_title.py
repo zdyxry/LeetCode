@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "1995. Count Special Quadruplets"
+a = "2000. Reverse Prefix of Word"
 
 print(a.replace('.', '').replace(' ', '_').lower())
