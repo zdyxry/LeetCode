@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "2042. Check if Numbers Are Ascending in a Sentence"
+a = "2047. Number of Valid Words in a Sentence"
 
 print(a.replace('.', '').replace(' ', '_').lower())
