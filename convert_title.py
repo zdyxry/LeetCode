@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "2047. Number of Valid Words in a Sentence"
+a = "2053. Kth Distinct String in an Array"
 
 print(a.replace('.', '').replace(' ', '_').lower())
