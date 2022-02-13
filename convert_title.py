@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "2068. Check Whether Two Strings are Almost Equivalent"
+a = "2073. Time Needed to Buy Tickets"
 
 print(a.replace('.', '').replace(' ', '_').lower())
