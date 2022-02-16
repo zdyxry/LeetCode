@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-a = "2089. Find Target Indices After Sorting Array"
+a = "2094. Finding 3-Digit Even Numbers"
 
 print(a.replace('.', '').replace(' ', '_').lower())
