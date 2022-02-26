@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2129. Capitalize the Title"
+a = "2144. Minimum Cost of Buying Candies With Discount"
 print(a.replace('.', '').replace(' ', '_').lower())
