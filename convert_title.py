@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2144. Minimum Cost of Buying Candies With Discount"
+a = "2148. Count Elements With Strictly Smaller and Greater Elements"
 print(a.replace('.', '').replace(' ', '_').lower())
