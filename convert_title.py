@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2148. Count Elements With Strictly Smaller and Greater Elements"
+a = "2154. Keep Multiplying Found Values by Two"
 print(a.replace('.', '').replace(' ', '_').lower())
