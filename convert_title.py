@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2154. Keep Multiplying Found Values by Two"
+a = "2160. Minimum Sum of Four Digit Number After Splitting Digits"
 print(a.replace('.', '').replace(' ', '_').lower())
