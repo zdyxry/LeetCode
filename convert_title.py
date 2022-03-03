@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2164. Sort Even and Odd Indices Independently"
+a = "2169. Count Operations to Obtain Zero"
 print(a.replace('.', '').replace(' ', '_').lower())
