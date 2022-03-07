@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2176. Count Equal and Divisible Pairs in an Array"
+a = "2185. Counting Words With a Given Prefix"
 print(a.replace('.', '').replace(' ', '_').lower())
