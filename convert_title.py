@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2190. Most Frequent Number Following Key In an Array"
+a = "2124. Check if All A's Appears Before All B's"
 print(a.replace('.', '').replace(' ', '_').lower())
