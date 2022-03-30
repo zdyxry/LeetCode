@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2124. Check if All A's Appears Before All B's"
+a = "2200. Find All K-Distant Indices in an Array"
 print(a.replace('.', '').replace(' ', '_').lower())
