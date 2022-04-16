@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2200. Find All K-Distant Indices in an Array"
+a = "2236. Root Equals Sum of Children"
 print(a.replace('.', '').replace(' ', '_').lower())
