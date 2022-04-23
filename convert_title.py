@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2239. Find Closest Number to Zero"
+a = "2243. Calculate Digit Sum of a String"
 print(a.replace('.', '').replace(' ', '_').lower())
