@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-a = "2243. Calculate Digit Sum of a String"
+a = "2248. Intersection of Multiple Arrays"
 print(a.replace('.', '').replace(' ', '_').lower())
